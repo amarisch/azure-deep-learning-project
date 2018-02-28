@@ -234,11 +234,7 @@ def create_vm(resource_client, compute_client, network_client, storage_client, b
 	# 1. Create a resource group
 	result = create_resource_group(resource_client, GROUP_NAME)
 
-	# 2. Create a storage account
-	models = self.storage_client.storage_accounts.models
-	parameters = models.StorageAccountCreateParameters(sku, self.kind, self.location, tags=self.tags)
-
-	# Create Azure storage account
+	# 2. Create Azure storage account
 	print('\nCreate Storage Account')
 	result = storage_client.storage_accounts.create(
 		GROUP_NAME,
@@ -272,6 +268,8 @@ def create_vm(resource_client, compute_client, network_client, storage_client, b
 	public_ip_address = network_client.public_ip_addresses.get(GROUP_NAME, PUBLIC_IP_NAME)
 	print('VM available at {}'.format(public_ip_address.ip_address))
 	print('ssh into the vm with {}@{} and password ({})'.format(ADMIN_USERNAME, public_ip_address.ip_address, ADMIN_PASSWORD))
+	print('Run jupyter notebook: jupyter notebook --no-browser --port=8889')
+	print('Enable local port forward: ssh -N -f -L localhost:8888:localhost:8889 {}@{}'.format(ADMIN_USERNAME, public_ip_address.ip_address))
 
 	# result = compute_client.virtual_machines.create_or_update(
 	# GROUP_NAME,
