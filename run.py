@@ -10,6 +10,7 @@ from azure.common.credentials import ServicePrincipalCredentials
 from azure.mgmt.resource import ResourceManagementClient
 from azure.mgmt.network import NetworkManagementClient
 from azure.mgmt.compute import ComputeManagementClient
+from azure.mgmt.storage import StorageManagementClient
 
 from haikunator import Haikunator
 
@@ -34,10 +35,27 @@ SUBSCRIPTION_ID = 0
 WEST_US = 'westus'
 
 def run():
-	credentials, subscription_id = get_credentials()
+	#credentials, subscription_id = get_credentials()
+	credentials, subscription_id = get_credentials_from_file('id.txt')
+
 	resource_client = ResourceManagementClient(credentials, subscription_id)
 	compute_client = ComputeManagementClient(credentials, subscription_id)
 	network_client = NetworkManagementClient(credentials, subscription_id)
+	storage_client = StorageManagementClient(credentials, subscription_id)
+
+	#options = prompt('Press r to manage resource/groups and v to manage virtual machines:')
+
+	#create_vm(resource_client, compute_client, network_client, storage_client, "pydatascience")
+	print('hello')
+
+	action = prompt('Press c to continue')
+	while action != 'c':
+		action = prompt('Press c to continue: ')
+	action = prompt('Press s to stop the vm (still charges computing resources) or d to deallocate the vm: ')
+	if action is 's':
+		stop_vm(compute_client, 'pydatascience', 'pydatascience')
+	if action is 'd':
+		deallocate_vm(compute_client, 'pydatascience', 'pydatascience')
 
 
 def get_credentials():
@@ -51,6 +69,21 @@ def get_credentials():
 		secret=CLIENT_SECRET,
 		tenant=TENANT_ID
 	)
+	return credentials, SUBSCRIPTION_ID
+
+def get_credentials_from_file(filename):
+	with open(filename, 'r') as f:
+		SUBSCRIPTION_ID = f.readline().strip()
+		TENANT_ID = f.readline().strip()
+		CLIENT_ID = f.readline().strip()
+		CLIENT_SECRET = f.readline().strip()
+
+	credentials = ServicePrincipalCredentials(
+		client_id=CLIENT_ID,
+		secret=CLIENT_SECRET,
+		tenant=TENANT_ID
+	)
+
 	return credentials, SUBSCRIPTION_ID
 
 if __name__ == '__main__':
