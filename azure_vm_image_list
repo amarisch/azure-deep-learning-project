@@ -1,0 +1,6064 @@
+[
+  {
+    "offer": "linux-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvm",
+    "urn": "microsoft-ads:linux-data-science-vm:linuxdsvm:1.4.8",
+    "version": "1.4.8"
+  },
+  {
+    "offer": "linux-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvm",
+    "urn": "microsoft-ads:linux-data-science-vm:linuxdsvm:1.4.9",
+    "version": "1.4.9"
+  },
+  {
+    "offer": "linux-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvm",
+    "urn": "microsoft-ads:linux-data-science-vm:linuxdsvm:1.5.0",
+    "version": "1.5.0"
+  },
+  {
+    "offer": "linux-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvm",
+    "urn": "microsoft-ads:linux-data-science-vm:linuxdsvm:1.6.2",
+    "version": "1.6.2"
+  },
+  {
+    "offer": "linux-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvm",
+    "urn": "microsoft-ads:linux-data-science-vm:linuxdsvm:1.7.3",
+    "version": "1.7.3"
+  },
+  {
+    "offer": "linux-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvmbyol",
+    "urn": "microsoft-ads:linux-data-science-vm:linuxdsvmbyol:1.6.2",
+    "version": "1.6.2"
+  },
+  {
+    "offer": "linux-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvmbyol",
+    "urn": "microsoft-ads:linux-data-science-vm:linuxdsvmbyol:1.7.3",
+    "version": "1.7.3"
+  },
+  {
+    "offer": "linux-data-science-vm-ubuntu",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvmubuntu",
+    "urn": "microsoft-ads:linux-data-science-vm-ubuntu:linuxdsvmubuntu:1.0.3",
+    "version": "1.0.3"
+  },
+  {
+    "offer": "linux-data-science-vm-ubuntu",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvmubuntu",
+    "urn": "microsoft-ads:linux-data-science-vm-ubuntu:linuxdsvmubuntu:1.0.5",
+    "version": "1.0.5"
+  },
+  {
+    "offer": "linux-data-science-vm-ubuntu",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvmubuntu",
+    "urn": "microsoft-ads:linux-data-science-vm-ubuntu:linuxdsvmubuntu:1.0.6",
+    "version": "1.0.6"
+  },
+  {
+    "offer": "linux-data-science-vm-ubuntu",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvmubuntu",
+    "urn": "microsoft-ads:linux-data-science-vm-ubuntu:linuxdsvmubuntu:1.1.1",
+    "version": "1.1.1"
+  },
+  {
+    "offer": "linux-data-science-vm-ubuntu",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvmubuntu",
+    "urn": "microsoft-ads:linux-data-science-vm-ubuntu:linuxdsvmubuntu:1.1.2",
+    "version": "1.1.2"
+  },
+  {
+    "offer": "linux-data-science-vm-ubuntu",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvmubuntu",
+    "urn": "microsoft-ads:linux-data-science-vm-ubuntu:linuxdsvmubuntu:1.1.6",
+    "version": "1.1.6"
+  },
+  {
+    "offer": "linux-data-science-vm-ubuntu",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvmubuntu",
+    "urn": "microsoft-ads:linux-data-science-vm-ubuntu:linuxdsvmubuntu:1.1.7",
+    "version": "1.1.7"
+  },
+  {
+    "offer": "JDK",
+    "publisher": "Microsoft",
+    "sku": "JDK_6",
+    "urn": "Microsoft:JDK:JDK_6:2016.03.15",
+    "version": "2016.03.15"
+  },
+  {
+    "offer": "JDK",
+    "publisher": "Microsoft",
+    "sku": "JDK_6",
+    "urn": "Microsoft:JDK:JDK_6:2016.04.19",
+    "version": "2016.04.19"
+  },
+  {
+    "offer": "JDK",
+    "publisher": "Microsoft",
+    "sku": "JDK_6",
+    "urn": "Microsoft:JDK:JDK_6:2016.05.23",
+    "version": "2016.05.23"
+  },
+  {
+    "offer": "linux-data-science-vm-ubuntu",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvmubuntubyol",
+    "urn": "microsoft-ads:linux-data-science-vm-ubuntu:linuxdsvmubuntubyol:1.1.1",
+    "version": "1.1.1"
+  },
+  {
+    "offer": "linux-data-science-vm-ubuntu",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvmubuntubyol",
+    "urn": "microsoft-ads:linux-data-science-vm-ubuntu:linuxdsvmubuntubyol:1.1.2",
+    "version": "1.1.2"
+  },
+  {
+    "offer": "linux-data-science-vm-ubuntu",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvmubuntubyol",
+    "urn": "microsoft-ads:linux-data-science-vm-ubuntu:linuxdsvmubuntubyol:1.1.6",
+    "version": "1.1.6"
+  },
+  {
+    "offer": "linux-data-science-vm-ubuntu",
+    "publisher": "microsoft-ads",
+    "sku": "linuxdsvmubuntubyol",
+    "urn": "microsoft-ads:linux-data-science-vm-ubuntu:linuxdsvmubuntubyol:1.1.7",
+    "version": "1.1.7"
+  },
+  {
+    "offer": "JDK",
+    "publisher": "Microsoft",
+    "sku": "JDK_7",
+    "urn": "Microsoft:JDK:JDK_7:2016.03.15",
+    "version": "2016.03.15"
+  },
+  {
+    "offer": "JDK",
+    "publisher": "Microsoft",
+    "sku": "JDK_7",
+    "urn": "Microsoft:JDK:JDK_7:2016.04.19",
+    "version": "2016.04.19"
+  },
+  {
+    "offer": "JDK",
+    "publisher": "Microsoft",
+    "sku": "JDK_7",
+    "urn": "Microsoft:JDK:JDK_7:2016.05.23",
+    "version": "2016.05.23"
+  },
+  {
+    "offer": "JDK",
+    "publisher": "Microsoft",
+    "sku": "JDK_8",
+    "urn": "Microsoft:JDK:JDK_8:2016.03.15",
+    "version": "2016.03.15"
+  },
+  {
+    "offer": "JDK",
+    "publisher": "Microsoft",
+    "sku": "JDK_8",
+    "urn": "Microsoft:JDK:JDK_8:2016.04.19",
+    "version": "2016.04.19"
+  },
+  {
+    "offer": "JDK",
+    "publisher": "Microsoft",
+    "sku": "JDK_8",
+    "urn": "Microsoft:JDK:JDK_8:2016.05.23",
+    "version": "2016.05.23"
+  },
+  {
+    "offer": "standard-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "standard-data-science-vm",
+    "urn": "microsoft-ads:standard-data-science-vm:standard-data-science-vm:1.10.0",
+    "version": "1.10.0"
+  },
+  {
+    "offer": "standard-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "standard-data-science-vm",
+    "urn": "microsoft-ads:standard-data-science-vm:standard-data-science-vm:1.11.0",
+    "version": "1.11.0"
+  },
+  {
+    "offer": "standard-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "standard-data-science-vm",
+    "urn": "microsoft-ads:standard-data-science-vm:standard-data-science-vm:1.12.0",
+    "version": "1.12.0"
+  },
+  {
+    "offer": "standard-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "standard-data-science-vm",
+    "urn": "microsoft-ads:standard-data-science-vm:standard-data-science-vm:1.8.0",
+    "version": "1.8.0"
+  },
+  {
+    "offer": "standard-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "standard-data-science-vm",
+    "urn": "microsoft-ads:standard-data-science-vm:standard-data-science-vm:1.9.0",
+    "version": "1.9.0"
+  },
+  {
+    "offer": "standard-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "win12-data-science-vm-csp",
+    "urn": "microsoft-ads:standard-data-science-vm:win12-data-science-vm-csp:1.10.0",
+    "version": "1.10.0"
+  },
+  {
+    "offer": "standard-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "win12-data-science-vm-csp",
+    "urn": "microsoft-ads:standard-data-science-vm:win12-data-science-vm-csp:1.11.0",
+    "version": "1.11.0"
+  },
+  {
+    "offer": "standard-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "win12-data-science-vm-csp",
+    "urn": "microsoft-ads:standard-data-science-vm:win12-data-science-vm-csp:1.12.0",
+    "version": "1.12.0"
+  },
+  {
+    "offer": "standard-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "win12-data-science-vm-csp",
+    "urn": "microsoft-ads:standard-data-science-vm:win12-data-science-vm-csp:1.8.0",
+    "version": "1.8.0"
+  },
+  {
+    "offer": "standard-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "win12-data-science-vm-csp",
+    "urn": "microsoft-ads:standard-data-science-vm:win12-data-science-vm-csp:1.9.0",
+    "version": "1.9.0"
+  },
+  {
+    "offer": "windows-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "windows2016",
+    "urn": "microsoft-ads:windows-data-science-vm:windows2016:0.0.10",
+    "version": "0.0.10"
+  },
+  {
+    "offer": "windows-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "windows2016",
+    "urn": "microsoft-ads:windows-data-science-vm:windows2016:0.0.11",
+    "version": "0.0.11"
+  },
+  {
+    "offer": "windows-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "windows2016",
+    "urn": "microsoft-ads:windows-data-science-vm:windows2016:0.1.12",
+    "version": "0.1.12"
+  },
+  {
+    "offer": "windows-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "windows2016",
+    "urn": "microsoft-ads:windows-data-science-vm:windows2016:0.2.01",
+    "version": "0.2.01"
+  },
+  {
+    "offer": "windows-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "windows2016",
+    "urn": "microsoft-ads:windows-data-science-vm:windows2016:0.2.02",
+    "version": "0.2.02"
+  },
+  {
+    "offer": "windows-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "windows2016byol",
+    "urn": "microsoft-ads:windows-data-science-vm:windows2016byol:0.1.12",
+    "version": "0.1.12"
+  },
+  {
+    "offer": "windows-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "windows2016byol",
+    "urn": "microsoft-ads:windows-data-science-vm:windows2016byol:0.2.01",
+    "version": "0.2.01"
+  },
+  {
+    "offer": "windows-data-science-vm",
+    "publisher": "microsoft-ads",
+    "sku": "windows2016byol",
+    "urn": "microsoft-ads:windows-data-science-vm:windows2016byol:0.2.02",
+    "version": "0.2.02"
+  },
+  {
+    "offer": "ASR-Hydration-VMs",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "OpenLogic-CentOs-66",
+    "urn": "MicrosoftAzureSiteRecovery:ASR-Hydration-VMs:OpenLogic-CentOs-66:201603.17.00",
+    "version": "201603.17.00"
+  },
+  {
+    "offer": "BizTalk-Server",
+    "publisher": "MicrosoftBizTalkServer",
+    "sku": "2013-R2-Enterprise",
+    "urn": "MicrosoftBizTalkServer:BizTalk-Server:2013-R2-Enterprise:3.11.158",
+    "version": "3.11.158"
+  },
+  {
+    "offer": "SPF",
+    "publisher": "Microsoft",
+    "sku": "Ubuntu",
+    "urn": "Microsoft:SPF:Ubuntu:16.04.20170707",
+    "version": "16.04.20170707"
+  },
+  {
+    "offer": "ASR-Hydration-VMs",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:ASR-Hydration-VMs:Windows-2012-R2-Datacenter:201603.15.00",
+    "version": "201603.15.00"
+  },
+  {
+    "offer": "BizTalk-Server",
+    "publisher": "MicrosoftBizTalkServer",
+    "sku": "2013-R2-Standard",
+    "urn": "MicrosoftBizTalkServer:BizTalk-Server:2013-R2-Standard:3.11.158",
+    "version": "3.11.158"
+  },
+  {
+    "offer": "DynamicsNAV",
+    "publisher": "MicrosoftDynamicsNAV",
+    "sku": "2017",
+    "urn": "MicrosoftDynamicsNAV:DynamicsNAV:2017:10.0.16177",
+    "version": "10.0.16177"
+  },
+  {
+    "offer": "DynamicsNAV",
+    "publisher": "MicrosoftDynamicsNAV",
+    "sku": "2017",
+    "urn": "MicrosoftDynamicsNAV:DynamicsNAV:2017:10.0.16585",
+    "version": "10.0.16585"
+  },
+  {
+    "offer": "DynamicsNAV",
+    "publisher": "MicrosoftDynamicsNAV",
+    "sku": "2017",
+    "urn": "MicrosoftDynamicsNAV:DynamicsNAV:2017:10.0.16996",
+    "version": "10.0.16996"
+  },
+  {
+    "offer": "DynamicsNAV",
+    "publisher": "MicrosoftDynamicsNAV",
+    "sku": "2017",
+    "urn": "MicrosoftDynamicsNAV:DynamicsNAV:2017:10.0.17501",
+    "version": "10.0.17501"
+  },
+  {
+    "offer": "DynamicsNAV",
+    "publisher": "MicrosoftDynamicsNAV",
+    "sku": "2017",
+    "urn": "MicrosoftDynamicsNAV:DynamicsNAV:2017:10.0.17972",
+    "version": "10.0.17972"
+  },
+  {
+    "offer": "DynamicsNAV",
+    "publisher": "MicrosoftDynamicsNAV",
+    "sku": "2017",
+    "urn": "MicrosoftDynamicsNAV:DynamicsNAV:2017:10.0.18609",
+    "version": "10.0.18609"
+  },
+  {
+    "offer": "DynamicsNAV",
+    "publisher": "MicrosoftDynamicsNAV",
+    "sku": "Base",
+    "urn": "MicrosoftDynamicsNAV:DynamicsNAV:Base:10.0.8",
+    "version": "10.0.8"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX2012R3-1BOX",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX2012R3-1BOX:6.3.20150420",
+    "version": "6.3.20150420"
+  },
+  {
+    "offer": "DynamicsNAV",
+    "publisher": "MicrosoftDynamicsNAV",
+    "sku": "Tenerife",
+    "urn": "MicrosoftDynamicsNAV:DynamicsNAV:Tenerife:10.0.15901",
+    "version": "10.0.15901"
+  },
+  {
+    "offer": "DynamicsNAV",
+    "publisher": "MicrosoftDynamicsNAV",
+    "sku": "Tenerife",
+    "urn": "MicrosoftDynamicsNAV:DynamicsNAV:Tenerife:10.0.16052",
+    "version": "10.0.16052"
+  },
+  {
+    "offer": "DynamicsNAV",
+    "publisher": "MicrosoftDynamicsNAV",
+    "sku": "Tenerife",
+    "urn": "MicrosoftDynamicsNAV:DynamicsNAV:Tenerife:10.0.16477",
+    "version": "10.0.16477"
+  },
+  {
+    "offer": "DynamicsNAV",
+    "publisher": "MicrosoftDynamicsNAV",
+    "sku": "Tenerife",
+    "urn": "MicrosoftDynamicsNAV:DynamicsNAV:Tenerife:10.0.17303",
+    "version": "10.0.17303"
+  },
+  {
+    "offer": "DynamicsNAV",
+    "publisher": "MicrosoftDynamicsNAV",
+    "sku": "Tenerife",
+    "urn": "MicrosoftDynamicsNAV:DynamicsNAV:Tenerife:10.0.17609",
+    "version": "10.0.17609"
+  },
+  {
+    "offer": "DynamicsNAV",
+    "publisher": "MicrosoftDynamicsNAV",
+    "sku": "Tenerife",
+    "urn": "MicrosoftDynamicsNAV:DynamicsNAV:Tenerife:10.0.18032",
+    "version": "10.0.18032"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX2012R3-AOS",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX2012R3-AOS:6.3.20150420",
+    "version": "6.3.20150420"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX2012R3-CLI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX2012R3-CLI:6.3.20150420",
+    "version": "6.3.20150420"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX2012R3-CLI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX2012R3-CLI:6.3.20150427",
+    "version": "6.3.20150427"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX2012R3-EP",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX2012R3-EP:6.3.20150420",
+    "version": "6.3.20150420"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX2012R3-PROD-AOS",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX2012R3-PROD-AOS:6.3.20150427",
+    "version": "6.3.20150427"
+  },
+  {
+    "offer": "BizTalk-Server",
+    "publisher": "MicrosoftBizTalkServer",
+    "sku": "2016-Developer",
+    "urn": "MicrosoftBizTalkServer:BizTalk-Server:2016-Developer:3.12.775",
+    "version": "3.12.775"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201603.02.00",
+    "version": "201603.02.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201603.03.00",
+    "version": "201603.03.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201605.01.00",
+    "version": "201605.01.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201605.02.00",
+    "version": "201605.02.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201608.01.00",
+    "version": "201608.01.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201608.02.00",
+    "version": "201608.02.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201608.03.00",
+    "version": "201608.03.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201608.04.00",
+    "version": "201608.04.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201612.01.00",
+    "version": "201612.01.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201612.02.00",
+    "version": "201612.02.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201701.01.00",
+    "version": "201701.01.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201701.02.00",
+    "version": "201701.02.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201702.01.00",
+    "version": "201702.01.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201702.02.00",
+    "version": "201702.02.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201703.01.00",
+    "version": "201703.01.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201703.02.00",
+    "version": "201703.02.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201705.01.00",
+    "version": "201705.01.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201706.01.00",
+    "version": "201706.01.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201707.01.00",
+    "version": "201707.01.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201708.01.00",
+    "version": "201708.01.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201710.01.00",
+    "version": "201710.01.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201712.01.00",
+    "version": "201712.01.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201801.01.00",
+    "version": "201801.01.00"
+  },
+  {
+    "offer": "Process-Server",
+    "publisher": "MicrosoftAzureSiteRecovery",
+    "sku": "Windows-2012-R2-Datacenter",
+    "urn": "MicrosoftAzureSiteRecovery:Process-Server:Windows-2012-R2-Datacenter:201802.01.00",
+    "version": "201802.01.00"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX2012R3-RTLECM",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX2012R3-RTLECM:6.3.20150420",
+    "version": "6.3.20150420"
+  },
+  {
+    "offer": "BizTalk-Server",
+    "publisher": "MicrosoftBizTalkServer",
+    "sku": "2016-Enterprise",
+    "urn": "MicrosoftBizTalkServer:BizTalk-Server:2016-Enterprise:3.12.815",
+    "version": "3.12.815"
+  },
+  {
+    "offer": "BizTalk-Server",
+    "publisher": "MicrosoftBizTalkServer",
+    "sku": "2016-Standard",
+    "urn": "MicrosoftBizTalkServer:BizTalk-Server:2016-Standard:3.12.815",
+    "version": "3.12.815"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX2012R3-RTLESS",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX2012R3-RTLESS:6.3.20150420",
+    "version": "6.3.20150420"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX2012R3-SQL",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX2012R3-SQL:6.3.20150420",
+    "version": "6.3.20150420"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "10.3",
+    "urn": "MicrosoftOSTC:FreeBSD:10.3:10.3.20170413",
+    "version": "10.3.20170413"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "10.3",
+    "urn": "MicrosoftOSTC:FreeBSD:10.3:10.3.20170428",
+    "version": "10.3.20170428"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "10.3",
+    "urn": "MicrosoftOSTC:FreeBSD:10.3:10.3.20170505",
+    "version": "10.3.20170505"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "10.3",
+    "urn": "MicrosoftOSTC:FreeBSD:10.3:10.3.20170807",
+    "version": "10.3.20170807"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "10.3",
+    "urn": "MicrosoftOSTC:FreeBSD:10.3:10.3.20180111",
+    "version": "10.3.20180111"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX6-ARA",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX6-ARA:6.3.20151026",
+    "version": "6.3.20151026"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS:7.0.20150728",
+    "version": "7.0.20150728"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS:7.0.20150820",
+    "version": "7.0.20150820"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS:7.0.20150821",
+    "version": "7.0.20150821"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS:7.0.20150911",
+    "version": "7.0.20150911"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS:7.0.20150916",
+    "version": "7.0.20150916"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS:7.0.201509802",
+    "version": "7.0.201509802"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS:7.0.20151029",
+    "version": "7.0.20151029"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS:7.0.20151105",
+    "version": "7.0.20151105"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS:7.0.20151116",
+    "version": "7.0.20151116"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS:7.0.20151202",
+    "version": "7.0.20151202"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS:7.0.20160121",
+    "version": "7.0.20160121"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS:7.0.20160323",
+    "version": "7.0.20160323"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS:7.0.20170518",
+    "version": "7.0.20170518"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "10.4",
+    "urn": "MicrosoftOSTC:FreeBSD:10.4:10.4.20170928",
+    "version": "10.4.20170928"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "10.4",
+    "urn": "MicrosoftOSTC:FreeBSD:10.4:10.4.20171010",
+    "version": "10.4.20171010"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "10.4",
+    "urn": "MicrosoftOSTC:FreeBSD:10.4:10.4.20180117",
+    "version": "10.4.20180117"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "11.0",
+    "urn": "MicrosoftOSTC:FreeBSD:11.0:11.0.20170413",
+    "version": "11.0.20170413"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "11.0",
+    "urn": "MicrosoftOSTC:FreeBSD:11.0:11.0.20170428",
+    "version": "11.0.20170428"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "11.0",
+    "urn": "MicrosoftOSTC:FreeBSD:11.0:11.0.20170505",
+    "version": "11.0.20170505"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "11.0",
+    "urn": "MicrosoftOSTC:FreeBSD:11.0:11.0.20170619",
+    "version": "11.0.20170619"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "11.0",
+    "urn": "MicrosoftOSTC:FreeBSD:11.0:11.0.20170807",
+    "version": "11.0.20170807"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "11.0",
+    "urn": "MicrosoftOSTC:FreeBSD:11.0:11.0.20180112",
+    "version": "11.0.20180112"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-Preview:7.0.20170515",
+    "version": "7.0.20170515"
+  },
+  {
+    "offer": "MicrosoftSharePointServer",
+    "publisher": "MicrosoftSharePoint",
+    "sku": "2013",
+    "urn": "MicrosoftSharePoint:MicrosoftSharePointServer:2013:15.0.4445",
+    "version": "15.0.4445"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU1:7.0.20160329",
+    "version": "7.0.20160329"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU1:7.0.20160518",
+    "version": "7.0.20160518"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU1:7.0.20160707",
+    "version": "7.0.20160707"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU1:7.0.20161026",
+    "version": "7.0.20161026"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU1:7.0.20170517",
+    "version": "7.0.20170517"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "11.1",
+    "urn": "MicrosoftOSTC:FreeBSD:11.1:11.1.20170616",
+    "version": "11.1.20170616"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "11.1",
+    "urn": "MicrosoftOSTC:FreeBSD:11.1:11.1.20170725",
+    "version": "11.1.20170725"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "11.1",
+    "urn": "MicrosoftOSTC:FreeBSD:11.1:11.1.20170807",
+    "version": "11.1.20170807"
+  },
+  {
+    "offer": "FreeBSD",
+    "publisher": "MicrosoftOSTC",
+    "sku": "11.1",
+    "urn": "MicrosoftOSTC:FreeBSD:11.1:11.1.20180112",
+    "version": "11.1.20180112"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU1-Preview:7.0.20160418",
+    "version": "7.0.20160418"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU1-Preview:7.0.20160615",
+    "version": "7.0.20160615"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU1-Preview:7.0.20160624",
+    "version": "7.0.20160624"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU1-Preview:7.0.20161019",
+    "version": "7.0.20161019"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU1-Preview:7.0.20170516",
+    "version": "7.0.20170516"
+  },
+  {
+    "offer": "MLServer-CentOS",
+    "publisher": "MicrosoftRServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftRServer:MLServer-CentOS:Enterprise:9.2.113640001",
+    "version": "9.2.113640001"
+  },
+  {
+    "offer": "MLServer-CentOS",
+    "publisher": "MicrosoftRServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftRServer:MLServer-CentOS:Enterprise:9.3.026060001",
+    "version": "9.3.026060001"
+  },
+  {
+    "offer": "MicrosoftSharePointServer",
+    "publisher": "MicrosoftSharePoint",
+    "sku": "2016",
+    "urn": "MicrosoftSharePoint:MicrosoftSharePointServer:2016:16.0.4357",
+    "version": "16.0.4357"
+  },
+  {
+    "offer": "MicrosoftSharePointServer",
+    "publisher": "MicrosoftSharePoint",
+    "sku": "2016",
+    "urn": "MicrosoftSharePoint:MicrosoftSharePointServer:2016:16.0.4358",
+    "version": "16.0.4358"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU2:7.0.20160627",
+    "version": "7.0.20160627"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU2:7.0.20160630",
+    "version": "7.0.20160630"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU2:7.0.20160708",
+    "version": "7.0.20160708"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU2:7.0.20160920",
+    "version": "7.0.20160920"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU2:7.0.20161026",
+    "version": "7.0.20161026"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU2:7.0.20170517",
+    "version": "7.0.20170517"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU2:7.0.20170724",
+    "version": "7.0.20170724"
+  },
+  {
+    "offer": "NA",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "1",
+    "urn": "MicrosoftHybridCloudStorage:NA:1:6.3.9600",
+    "version": "6.3.9600"
+  },
+  {
+    "offer": "SQL2008R2SP3-WS2008R2SP1",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2008R2SP3-WS2008R2SP1:Enterprise:10.60.6001",
+    "version": "10.60.6001"
+  },
+  {
+    "offer": "MLServer-RedHat",
+    "publisher": "MicrosoftRServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftRServer:MLServer-RedHat:Enterprise:9.2.113640001",
+    "version": "9.2.113640001"
+  },
+  {
+    "offer": "MLServer-RedHat",
+    "publisher": "MicrosoftRServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftRServer:MLServer-RedHat:Enterprise:9.3.026060001",
+    "version": "9.3.026060001"
+  },
+  {
+    "offer": "PremiumSVATesting",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "1.0.0",
+    "urn": "MicrosoftHybridCloudStorage:PremiumSVATesting:1.0.0:6.3.9600",
+    "version": "6.3.9600"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2015-Comm-VSU3-AzureSDK-29-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2015-Comm-VSU3-AzureSDK-29-Win10-N:2017.12.14",
+    "version": "2017.12.14"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2015-Comm-VSU3-AzureSDK-29-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2015-Comm-VSU3-AzureSDK-29-Win10-N:2018.01.11",
+    "version": "2018.01.11"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2015-Comm-VSU3-AzureSDK-29-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2015-Comm-VSU3-AzureSDK-29-Win10-N:2018.02.14",
+    "version": "2018.02.14"
+  },
+  {
+    "offer": "SQL2008R2SP3-WS2008R2SP1",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2008R2SP3-WS2008R2SP1:Express:10.60.6002",
+    "version": "10.60.6002"
+  },
+  {
+    "offer": "SQL2008R2SP3-WS2008R2SP1",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2008R2SP3-WS2008R2SP1:Standard:10.60.6001",
+    "version": "10.60.6001"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2015-Comm-VSU3-AzureSDK-29-WS2012R2",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2015-Comm-VSU3-AzureSDK-29-WS2012R2:2017.12.14",
+    "version": "2017.12.14"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2015-Comm-VSU3-AzureSDK-29-WS2012R2",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2015-Comm-VSU3-AzureSDK-29-WS2012R2:2018.01.11",
+    "version": "2018.01.11"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2015-Comm-VSU3-AzureSDK-29-WS2012R2",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2015-Comm-VSU3-AzureSDK-29-WS2012R2:2018.02.14",
+    "version": "2018.02.14"
+  },
+  {
+    "offer": "SQL2008R2SP3-WS2008R2SP1",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2008R2SP3-WS2008R2SP1:Web:10.60.6001",
+    "version": "10.60.6001"
+  },
+  {
+    "offer": "MLServer-Ubuntu",
+    "publisher": "MicrosoftRServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftRServer:MLServer-Ubuntu:Enterprise:9.2.113640001",
+    "version": "9.2.113640001"
+  },
+  {
+    "offer": "MLServer-Ubuntu",
+    "publisher": "MicrosoftRServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftRServer:MLServer-Ubuntu:Enterprise:9.2.113640002",
+    "version": "9.2.113640002"
+  },
+  {
+    "offer": "MLServer-Ubuntu",
+    "publisher": "MicrosoftRServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftRServer:MLServer-Ubuntu:Enterprise:9.3.026060001",
+    "version": "9.3.026060001"
+  },
+  {
+    "offer": "StorSimple",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-8000-Series-Release",
+    "urn": "MicrosoftHybridCloudStorage:StorSimple:StorSimple-8000-Series-Release:9600.17312.20140710",
+    "version": "9600.17312.20140710"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2015-Ent-VSU3-AzureSDK-29-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2015-Ent-VSU3-AzureSDK-29-Win10-N:2017.12.14",
+    "version": "2017.12.14"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2015-Ent-VSU3-AzureSDK-29-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2015-Ent-VSU3-AzureSDK-29-Win10-N:2018.01.11",
+    "version": "2018.01.11"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2015-Ent-VSU3-AzureSDK-29-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2015-Ent-VSU3-AzureSDK-29-Win10-N:2018.02.14",
+    "version": "2018.02.14"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2015-Ent-VSU3-AzureSDK-29-WS2012R2",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2015-Ent-VSU3-AzureSDK-29-WS2012R2:2017.12.14",
+    "version": "2017.12.14"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2015-Ent-VSU3-AzureSDK-29-WS2012R2",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2015-Ent-VSU3-AzureSDK-29-WS2012R2:2018.01.11",
+    "version": "2018.01.11"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2015-Ent-VSU3-AzureSDK-29-WS2012R2",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2015-Ent-VSU3-AzureSDK-29-WS2012R2:2018.02.14",
+    "version": "2018.02.14"
+  },
+  {
+    "offer": "StorSimple",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-8000-Series-Update-0.3",
+    "urn": "MicrosoftHybridCloudStorage:StorSimple:StorSimple-8000-Series-Update-0.3:9600.17361.141206",
+    "version": "9600.17361.141206"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2:Enterprise:11.5.65235",
+    "version": "11.5.65235"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2:Enterprise:11.5.85238",
+    "version": "11.5.85238"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2:Enterprise:11.5.85300",
+    "version": "11.5.85300"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2:Enterprise:11.5.90000",
+    "version": "11.5.90000"
+  },
+  {
+    "offer": "MLServer-WS2016",
+    "publisher": "MicrosoftRServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftRServer:MLServer-WS2016:Enterprise:9.2.113640001",
+    "version": "9.2.113640001"
+  },
+  {
+    "offer": "MLServer-WS2016",
+    "publisher": "MicrosoftRServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftRServer:MLServer-WS2016:Enterprise:9.3.026060001",
+    "version": "9.3.026060001"
+  },
+  {
+    "offer": "StorSimple",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-Garda-8000-Series",
+    "urn": "MicrosoftHybridCloudStorage:StorSimple:StorSimple-Garda-8000-Series:9600.17215.140620",
+    "version": "9600.17215.140620"
+  },
+  {
+    "offer": "StorSimple",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-Garda-8000-Series",
+    "urn": "MicrosoftHybridCloudStorage:StorSimple:StorSimple-Garda-8000-Series:9600.17361.141206",
+    "version": "9600.17361.141206"
+  },
+  {
+    "offer": "StorSimple",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-Garda-8000-Series",
+    "urn": "MicrosoftHybridCloudStorage:StorSimple:StorSimple-Garda-8000-Series:9600.17759.160826",
+    "version": "9600.17759.160826"
+  },
+  {
+    "offer": "StorSimple",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-Garda-8000-Series",
+    "urn": "MicrosoftHybridCloudStorage:StorSimple:StorSimple-Garda-8000-Series:9600.17820.170208",
+    "version": "9600.17820.170208"
+  },
+  {
+    "offer": "StorSimple",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-Garda-8000-Series",
+    "urn": "MicrosoftHybridCloudStorage:StorSimple:StorSimple-Garda-8000-Series:9600.17845.170810",
+    "version": "9600.17845.170810"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Latest-Preview-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Latest-Preview-WS2016:2018.01.25",
+    "version": "2018.01.25"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Latest-Preview-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Latest-Preview-WS2016:2018.02.09",
+    "version": "2018.02.09"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Latest-Preview-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Latest-Preview-WS2016:2018.02.14",
+    "version": "2018.02.14"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Latest-Preview-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Latest-Preview-WS2016:2018.02.16",
+    "version": "2018.02.16"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2:Express:11.5.65235",
+    "version": "11.5.65235"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2:Express:11.5.85238",
+    "version": "11.5.85238"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2:Express:11.5.85300",
+    "version": "11.5.85300"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2:Express:11.5.90000",
+    "version": "11.5.90000"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Latest-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Latest-Win10-N:2017.12.04",
+    "version": "2017.12.04"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Latest-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Latest-Win10-N:2017.12.19",
+    "version": "2017.12.19"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Latest-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Latest-Win10-N:2018.01.11",
+    "version": "2018.01.11"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Latest-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Latest-Win10-N:2018.02.14",
+    "version": "2018.02.14"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Latest-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Latest-Win10-N:2018.02.24",
+    "version": "2018.02.24"
+  },
+  {
+    "offer": "StorSimple",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-Garda-8000-Series-BBUpdate",
+    "urn": "MicrosoftHybridCloudStorage:StorSimple:StorSimple-Garda-8000-Series-BBUpdate:9600.17361.141206",
+    "version": "9600.17361.141206"
+  },
+  {
+    "offer": "StorSimple",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-Garda-8000-Series-BBUpdate",
+    "urn": "MicrosoftHybridCloudStorage:StorSimple:StorSimple-Garda-8000-Series-BBUpdate:9600.17820.170208",
+    "version": "9600.17820.170208"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2:Standard:11.5.65236",
+    "version": "11.5.65236"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2:Standard:11.5.85238",
+    "version": "11.5.85238"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2:Standard:11.5.85300",
+    "version": "11.5.85300"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2:Standard:11.5.90000",
+    "version": "11.5.90000"
+  },
+  {
+    "offer": "RServer-CentOS",
+    "publisher": "MicrosoftRServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftRServer:RServer-CentOS:Enterprise:9.1.00002",
+    "version": "9.1.00002"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Latest-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Latest-WS2016:2017.12.04",
+    "version": "2017.12.04"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Latest-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Latest-WS2016:2017.12.14",
+    "version": "2017.12.14"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Latest-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Latest-WS2016:2018.01.11",
+    "version": "2018.01.11"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Latest-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Latest-WS2016:2018.02.14",
+    "version": "2018.02.14"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Latest-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Latest-WS2016:2018.02.23",
+    "version": "2018.02.23"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2:Web:11.5.85238",
+    "version": "11.5.85238"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2:Web:11.5.85300",
+    "version": "11.5.85300"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2:Web:11.5.90000",
+    "version": "11.5.90000"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2:Web:12.5.50000",
+    "version": "12.5.50000"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Win10-N:2017.12.14",
+    "version": "2017.12.14"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Win10-N:2018.01.11",
+    "version": "2018.01.11"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Win10-N:2018.02.14",
+    "version": "2018.02.14"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-Win10-N:2018.02.24",
+    "version": "2018.02.24"
+  },
+  {
+    "offer": "StorSimpleOpenVM",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-Open-VM-2016-04-06-9600.17693.160317",
+    "urn": "MicrosoftHybridCloudStorage:StorSimpleOpenVM:StorSimple-Open-VM-2016-04-06-9600.17693.160317:9600.17693.160505",
+    "version": "9600.17693.160505"
+  },
+  {
+    "offer": "StorSimpleOpenVM",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-Open-VM-2016-04-06-9600.17693.160317",
+    "urn": "MicrosoftHybridCloudStorage:StorSimpleOpenVM:StorSimple-Open-VM-2016-04-06-9600.17693.160317:9600.17693.160507",
+    "version": "9600.17693.160507"
+  },
+  {
+    "offer": "StorSimpleOpenVM",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-Open-VM-2016-04-06-9600.17693.160317",
+    "urn": "MicrosoftHybridCloudStorage:StorSimpleOpenVM:StorSimple-Open-VM-2016-04-06-9600.17693.160317:9600.17693.160508",
+    "version": "9600.17693.160508"
+  },
+  {
+    "offer": "StorSimpleOpenVM",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-Open-VM-2016-04-06-9600.17693.160317",
+    "urn": "MicrosoftHybridCloudStorage:StorSimpleOpenVM:StorSimple-Open-VM-2016-04-06-9600.17693.160317:9600.17693.160509",
+    "version": "9600.17693.160509"
+  },
+  {
+    "offer": "StorSimpleOpenVM",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-Open-VM-2016-04-06-9600.17693.160317",
+    "urn": "MicrosoftHybridCloudStorage:StorSimpleOpenVM:StorSimple-Open-VM-2016-04-06-9600.17693.160317:9600.17693.160510",
+    "version": "9600.17693.160510"
+  },
+  {
+    "offer": "StorSimpleOpenVM",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-Open-VM-2016-04-06-9600.17693.160317",
+    "urn": "MicrosoftHybridCloudStorage:StorSimpleOpenVM:StorSimple-Open-VM-2016-04-06-9600.17693.160317:9600.17693.160512",
+    "version": "9600.17693.160512"
+  },
+  {
+    "offer": "StorSimpleOpenVM",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-Open-VM-2016-04-06-9600.17693.160317",
+    "urn": "MicrosoftHybridCloudStorage:StorSimpleOpenVM:StorSimple-Open-VM-2016-04-06-9600.17693.160317:9600.17693.160513",
+    "version": "9600.17693.160513"
+  },
+  {
+    "offer": "StorSimpleOpenVM",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-Open-VM-2016-04-06-9600.17693.160317",
+    "urn": "MicrosoftHybridCloudStorage:StorSimpleOpenVM:StorSimple-Open-VM-2016-04-06-9600.17693.160317:9600.17693.160514",
+    "version": "9600.17693.160514"
+  },
+  {
+    "offer": "StorSimpleOpenVM",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimple-Open-VM-2016-04-06-9600.17693.160317",
+    "urn": "MicrosoftHybridCloudStorage:StorSimpleOpenVM:StorSimple-Open-VM-2016-04-06-9600.17693.160317:9600.17693.160515",
+    "version": "9600.17693.160515"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2-BYOL:Enterprise:11.3.65235",
+    "version": "11.3.65235"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2-BYOL:Enterprise:11.7.65235",
+    "version": "11.7.65235"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2-BYOL:Enterprise:11.8.00000",
+    "version": "11.8.00000"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-WS2016:2017.11.20",
+    "version": "2017.11.20"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-WS2016:2017.12.19",
+    "version": "2017.12.19"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-WS2016:2018.01.11",
+    "version": "2018.01.11"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-WS2016:2018.02.14",
+    "version": "2018.02.14"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Comm-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Comm-WS2016:2018.02.23",
+    "version": "2018.02.23"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2-BYOL:Standard:11.7.65236",
+    "version": "11.7.65236"
+  },
+  {
+    "offer": "SQL2012SP3-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2012SP3-WS2012R2-BYOL:Standard:11.8.00000",
+    "version": "11.8.00000"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Latest-Preview-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Latest-Preview-WS2016:2018.01.25",
+    "version": "2018.01.25"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Latest-Preview-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Latest-Preview-WS2016:2018.02.09",
+    "version": "2018.02.09"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Latest-Preview-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Latest-Preview-WS2016:2018.02.16",
+    "version": "2018.02.16"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Latest-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Latest-Win10-N:2017.12.04",
+    "version": "2017.12.04"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Latest-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Latest-Win10-N:2017.12.19",
+    "version": "2017.12.19"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Latest-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Latest-Win10-N:2018.01.11",
+    "version": "2018.01.11"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Latest-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Latest-Win10-N:2018.02.14",
+    "version": "2018.02.14"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Latest-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Latest-Win10-N:2018.02.24",
+    "version": "2018.02.24"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU2-Preview:7.0.20160830",
+    "version": "7.0.20160830"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU2-Preview:7.0.20161017",
+    "version": "7.0.20161017"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU2-Preview:7.0.20161018",
+    "version": "7.0.20161018"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU2-Preview:7.0.20170719",
+    "version": "7.0.20170719"
+  },
+  {
+    "offer": "RServer-Ubuntu",
+    "publisher": "MicrosoftRServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftRServer:RServer-Ubuntu:Enterprise:9.1.00002",
+    "version": "9.1.00002"
+  },
+  {
+    "offer": "SQL2012SP4-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2012SP4-WS2012R2:Enterprise:11.0.70010",
+    "version": "11.0.70010"
+  },
+  {
+    "offer": "SQL2012SP4-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2012SP4-WS2012R2:Enterprise:11.0.70050",
+    "version": "11.0.70050"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Latest-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Latest-WS2016:2017.12.04",
+    "version": "2017.12.04"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Latest-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Latest-WS2016:2017.12.19",
+    "version": "2017.12.19"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Latest-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Latest-WS2016:2018.01.11",
+    "version": "2018.01.11"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Latest-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Latest-WS2016:2018.02.14",
+    "version": "2018.02.14"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Latest-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Latest-WS2016:2018.02.23",
+    "version": "2018.02.23"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-RTWU2-SN",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-RTWU2-SN:7.0.20160714",
+    "version": "7.0.20160714"
+  },
+  {
+    "offer": "SQL2012SP4-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2012SP4-WS2012R2:Express:11.0.70010",
+    "version": "11.0.70010"
+  },
+  {
+    "offer": "SQL2012SP4-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2012SP4-WS2012R2:Express:11.0.70050",
+    "version": "11.0.70050"
+  },
+  {
+    "offer": "StorSimpleVA",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimpleHelsinkiPreviewV1",
+    "urn": "MicrosoftHybridCloudStorage:StorSimpleVA:StorSimpleHelsinkiPreviewV1:10288.0.160901",
+    "version": "10288.0.160901"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Win10-N:2017.11.16",
+    "version": "2017.11.16"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Win10-N:2017.12.14",
+    "version": "2017.12.14"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Win10-N:2018.01.11",
+    "version": "2018.01.11"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Win10-N:2018.02.14",
+    "version": "2018.02.14"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-Win10-N",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-Win10-N:2018.02.24",
+    "version": "2018.02.24"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U3:7.0.20160930",
+    "version": "7.0.20160930"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U3:7.0.20161114",
+    "version": "7.0.20161114"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U3:7.0.20170228",
+    "version": "7.0.20170228"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U3:7.0.20170329",
+    "version": "7.0.20170329"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U3:7.0.20170519",
+    "version": "7.0.20170519"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U3:7.0.20170628",
+    "version": "7.0.20170628"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U3:7.0.20170720",
+    "version": "7.0.20170720"
+  },
+  {
+    "offer": "SQL2012SP4-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2012SP4-WS2012R2:Standard:11.0.70010",
+    "version": "11.0.70010"
+  },
+  {
+    "offer": "SQL2012SP4-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2012SP4-WS2012R2:Standard:11.0.70050",
+    "version": "11.0.70050"
+  },
+  {
+    "offer": "StorSimpleVA",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimpleUpdate2RC",
+    "urn": "MicrosoftHybridCloudStorage:StorSimpleVA:StorSimpleUpdate2RC:9600.17642.151126",
+    "version": "9600.17642.151126"
+  },
+  {
+    "offer": "StorSimpleVA",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimpleUpdate2RC",
+    "urn": "MicrosoftHybridCloudStorage:StorSimpleVA:StorSimpleUpdate2RC:9600.17642.151129",
+    "version": "9600.17642.151129"
+  },
+  {
+    "offer": "StorSimpleVA",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimpleUpdate2RC",
+    "urn": "MicrosoftHybridCloudStorage:StorSimpleVA:StorSimpleUpdate2RC:9600.17651.151203",
+    "version": "9600.17651.151203"
+  },
+  {
+    "offer": "StorSimpleVA",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimpleUpdate2RC",
+    "urn": "MicrosoftHybridCloudStorage:StorSimpleVA:StorSimpleUpdate2RC:9600.17651.151215",
+    "version": "9600.17651.151215"
+  },
+  {
+    "offer": "StorSimpleVA",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimpleUpdate2RC",
+    "urn": "MicrosoftHybridCloudStorage:StorSimpleVA:StorSimpleUpdate2RC:9600.17673.151224",
+    "version": "9600.17673.151224"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-WS2016:2017.12.19",
+    "version": "2017.12.19"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-WS2016:2018.01.11",
+    "version": "2018.01.11"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-WS2016:2018.02.14",
+    "version": "2018.02.14"
+  },
+  {
+    "offer": "VisualStudio",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "VS-2017-Ent-WS2016",
+    "urn": "MicrosoftVisualStudio:VisualStudio:VS-2017-Ent-WS2016:2018.02.23",
+    "version": "2018.02.23"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U3-Preview:7.0.20161026",
+    "version": "7.0.20161026"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U3-Preview:7.0.20161115",
+    "version": "7.0.20161115"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U3-Preview:7.0.20170217",
+    "version": "7.0.20170217"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U3-Preview:7.0.20170222",
+    "version": "7.0.20170222"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U3-Preview:7.0.20170322",
+    "version": "7.0.20170322"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U3-Preview:7.0.20170517",
+    "version": "7.0.20170517"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U3-Preview:7.0.20170626",
+    "version": "7.0.20170626"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U3-Preview:7.0.20170718",
+    "version": "7.0.20170718"
+  },
+  {
+    "offer": "StorSimpleVA",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimpleUpdate3RC",
+    "urn": "MicrosoftHybridCloudStorage:StorSimpleVA:StorSimpleUpdate3RC:9600.17759.160826",
+    "version": "9600.17759.160826"
+  },
+  {
+    "offer": "RServer-WS2016",
+    "publisher": "MicrosoftRServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftRServer:RServer-WS2016:Enterprise:9.1.00000",
+    "version": "9.1.00000"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U4-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U4-Preview:7.0.20170112",
+    "version": "7.0.20170112"
+  },
+  {
+    "offer": "SQL2012SP4-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2012SP4-WS2012R2:Web:11.0.70010",
+    "version": "11.0.70010"
+  },
+  {
+    "offer": "SQL2012SP4-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2012SP4-WS2012R2:Web:11.0.70050",
+    "version": "11.0.70050"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U5",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U5:7.0.20170228",
+    "version": "7.0.20170228"
+  },
+  {
+    "offer": "StorSimpleVANovember",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "StorSimpleUpdate2RC1",
+    "urn": "MicrosoftHybridCloudStorage:StorSimpleVANovember:StorSimpleUpdate2RC1:9600.17642.151120",
+    "version": "9600.17642.151120"
+  },
+  {
+    "offer": "Windows",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "Win7-SP1-Ent-N-x64",
+    "urn": "MicrosoftVisualStudio:Windows:Win7-SP1-Ent-N-x64:2017.12.14",
+    "version": "2017.12.14"
+  },
+  {
+    "offer": "Windows",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "Win7-SP1-Ent-N-x64",
+    "urn": "MicrosoftVisualStudio:Windows:Win7-SP1-Ent-N-x64:2018.01.11",
+    "version": "2018.01.11"
+  },
+  {
+    "offer": "Windows",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "Win7-SP1-Ent-N-x64",
+    "urn": "MicrosoftVisualStudio:Windows:Win7-SP1-Ent-N-x64:2018.02.14",
+    "version": "2018.02.14"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U6",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U6:7.0.20170414",
+    "version": "7.0.20170414"
+  },
+  {
+    "offer": "Windows",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "Win81-Ent-N-x64",
+    "urn": "MicrosoftVisualStudio:Windows:Win81-Ent-N-x64:2017.12.14",
+    "version": "2017.12.14"
+  },
+  {
+    "offer": "Windows",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "Win81-Ent-N-x64",
+    "urn": "MicrosoftVisualStudio:Windows:Win81-Ent-N-x64:2018.01.11",
+    "version": "2018.01.11"
+  },
+  {
+    "offer": "Windows",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "Win81-Ent-N-x64",
+    "urn": "MicrosoftVisualStudio:Windows:Win81-Ent-N-x64:2018.02.14",
+    "version": "2018.02.14"
+  },
+  {
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "RS2-Pro",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:RS2-Pro:15063.608.0",
+    "version": "15063.608.0"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U8:7.0.20170602",
+    "version": "7.0.20170602"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U8:7.0.20170622",
+    "version": "7.0.20170622"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U8:7.0.20170717",
+    "version": "7.0.20170717"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U8:7.0.20171108",
+    "version": "7.0.20171108"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U8:7.0.20171117",
+    "version": "7.0.20171117"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U8:7.0.20180122",
+    "version": "7.0.20180122"
+  },
+  {
+    "offer": "TestingOnlyToBeRemoved",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "1",
+    "urn": "MicrosoftHybridCloudStorage:TestingOnlyToBeRemoved:1:6.3.9600",
+    "version": "6.3.9600"
+  },
+  {
+    "offer": "Windows",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "Windows-10-N-x64",
+    "urn": "MicrosoftVisualStudio:Windows:Windows-10-N-x64:2017.12.14",
+    "version": "2017.12.14"
+  },
+  {
+    "offer": "Windows",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "Windows-10-N-x64",
+    "urn": "MicrosoftVisualStudio:Windows:Windows-10-N-x64:2018.01.18",
+    "version": "2018.01.18"
+  },
+  {
+    "offer": "Windows",
+    "publisher": "MicrosoftVisualStudio",
+    "sku": "Windows-10-N-x64",
+    "urn": "MicrosoftVisualStudio:Windows:Windows-10-N-x64:2018.02.14",
+    "version": "2018.02.14"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U8-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U8-Preview:7.0.20170619",
+    "version": "7.0.20170619"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U8-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U8-Preview:7.0.20170712",
+    "version": "7.0.20170712"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-AOS-U8-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-AOS-U8-Preview:7.0.20171107",
+    "version": "7.0.20171107"
+  },
+  {
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "RS2-ProN",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:RS2-ProN:15063.608.0",
+    "version": "15063.608.0"
+  },
+  {
+    "offer": "TestingPrivateBakedVHDPremiumStorage",
+    "publisher": "MicrosoftHybridCloudStorage",
+    "sku": "2",
+    "urn": "MicrosoftHybridCloudStorage:TestingPrivateBakedVHDPremiumStorage:2:6.3.9600",
+    "version": "6.3.9600"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI:7.0.20150728",
+    "version": "7.0.20150728"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI:7.0.20150820",
+    "version": "7.0.20150820"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI:7.0.20150827",
+    "version": "7.0.20150827"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI:7.0.20150911",
+    "version": "7.0.20150911"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI:7.0.20151029",
+    "version": "7.0.20151029"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI:7.0.20151105",
+    "version": "7.0.20151105"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI:7.0.20151109",
+    "version": "7.0.20151109"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI:7.0.20151111",
+    "version": "7.0.20151111"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI:7.0.20151116",
+    "version": "7.0.20151116"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI:7.0.20151201",
+    "version": "7.0.20151201"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI:7.0.20151208",
+    "version": "7.0.20151208"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI:7.0.20151210",
+    "version": "7.0.20151210"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI:7.0.20160121",
+    "version": "7.0.20160121"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI:7.0.20160323",
+    "version": "7.0.20160323"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI:7.0.20160622",
+    "version": "7.0.20160622"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI:7.0.20170518",
+    "version": "7.0.20170518"
+  },
+  {
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "RS3-Pro",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:RS3-Pro:16299.248.1",
+    "version": "16299.248.1"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-Preview:7.0.20170515",
+    "version": "7.0.20170515"
+  },
+  {
+    "offer": "Windows-10",
+    "publisher": "MicrosoftWindowsDesktop",
+    "sku": "RS3-ProN",
+    "urn": "MicrosoftWindowsDesktop:Windows-10:RS3-ProN:16299.248.1",
+    "version": "16299.248.1"
+  },
+  {
+    "offer": "Windows-HUB",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "Windows-10-HUB",
+    "urn": "MicrosoftWindowsServer:Windows-HUB:Windows-10-HUB:10.127.20170712",
+    "version": "10.127.20170712"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU1:7.0.20160329",
+    "version": "7.0.20160329"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU1:7.0.20160518",
+    "version": "7.0.20160518"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU1:7.0.20160707",
+    "version": "7.0.20160707"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU1:7.0.20161026",
+    "version": "7.0.20161026"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU1:7.0.20170517",
+    "version": "7.0.20170517"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU1-Preview:7.0.20160418",
+    "version": "7.0.20160418"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU1-Preview:7.0.20160615",
+    "version": "7.0.20160615"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU1-Preview:7.0.20160624",
+    "version": "7.0.20160624"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU1-Preview:7.0.20161019",
+    "version": "7.0.20161019"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU1-Preview:7.0.20170516",
+    "version": "7.0.20170516"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:2.127.20170406",
+    "version": "2.127.20170406"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:2.127.20170420",
+    "version": "2.127.20170420"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:2.127.20170510",
+    "version": "2.127.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:2.127.20170628",
+    "version": "2.127.20170628"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:2.127.20170712",
+    "version": "2.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:2.127.20170811",
+    "version": "2.127.20170811"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:2.127.20170918",
+    "version": "2.127.20170918"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:2.127.20171017",
+    "version": "2.127.20171017"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:2.127.20171115",
+    "version": "2.127.20171115"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:2.127.20171217",
+    "version": "2.127.20171217"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:2.127.20180111",
+    "version": "2.127.20180111"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU2:7.0.20160627",
+    "version": "7.0.20160627"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU2:7.0.20160630",
+    "version": "7.0.20160630"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU2:7.0.20160708",
+    "version": "7.0.20160708"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU2:7.0.20160920",
+    "version": "7.0.20160920"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU2:7.0.20161026",
+    "version": "7.0.20161026"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU2:7.0.20170517",
+    "version": "7.0.20170517"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU2:7.0.20170724",
+    "version": "7.0.20170724"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1-smalldisk:2.0.20170416",
+    "version": "2.0.20170416"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1-smalldisk:2.0.20170510",
+    "version": "2.0.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1-smalldisk:2.127.20170712",
+    "version": "2.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1-smalldisk:2.127.20170811",
+    "version": "2.127.20170811"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1-smalldisk:2.127.20170918",
+    "version": "2.127.20170918"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1-smalldisk:2.127.20171017",
+    "version": "2.127.20171017"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1-smalldisk:2.127.20171115",
+    "version": "2.127.20171115"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1-smalldisk:2.127.20171217",
+    "version": "2.127.20171217"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2008-R2-SP1-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2008-R2-SP1-smalldisk:2.127.20180111",
+    "version": "2.127.20180111"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU2-Preview:7.0.20160830",
+    "version": "7.0.20160830"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU2-Preview:7.0.20161017",
+    "version": "7.0.20161017"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU2-Preview:7.0.20161018",
+    "version": "7.0.20161018"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU2-Preview:7.0.20170719",
+    "version": "7.0.20170719"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter:3.127.20170406",
+    "version": "3.127.20170406"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter:3.127.20170420",
+    "version": "3.127.20170420"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter:3.127.20170510",
+    "version": "3.127.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter:3.127.20170628",
+    "version": "3.127.20170628"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter:3.127.20170712",
+    "version": "3.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter:3.127.20170811",
+    "version": "3.127.20170811"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter:3.127.20170918",
+    "version": "3.127.20170918"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter:3.127.20171017",
+    "version": "3.127.20171017"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter:3.127.20171115",
+    "version": "3.127.20171115"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter:3.127.20180111",
+    "version": "3.127.20180111"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2:4.5.5159",
+    "version": "4.5.5159"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2:4.5.5161",
+    "version": "4.5.5161"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2:4.5.5168",
+    "version": "4.5.5168"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2:4.5.5170",
+    "version": "4.5.5170"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-RTWU2-SN",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-RTWU2-SN:7.0.20160714",
+    "version": "7.0.20160714"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2CN",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2CN:4.5.5159",
+    "version": "4.5.5159"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2CN",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2CN:4.5.5161",
+    "version": "4.5.5161"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2CN",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2CN:4.5.5168",
+    "version": "4.5.5168"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2CN",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2CN:4.5.5170",
+    "version": "4.5.5170"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2CNExcel",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2CNExcel:4.5.5159",
+    "version": "4.5.5159"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2CNExcel",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2CNExcel:4.5.5161",
+    "version": "4.5.5161"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2CNExcel",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2CNExcel:4.5.5168",
+    "version": "4.5.5168"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2012R2CNExcel",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2012R2CNExcel:4.5.5170",
+    "version": "4.5.5170"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U13-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U13-Preview:7.0.20171103",
+    "version": "7.0.20171103"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U13-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U13-Preview:7.0.20171108",
+    "version": "7.0.20171108"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016CN-WS2012R2",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016CN-WS2012R2:5.0.5827",
+    "version": "5.0.5827"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U3:7.0.20160930",
+    "version": "7.0.20160930"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U3:7.0.20161114",
+    "version": "7.0.20161114"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U3:7.0.20170228",
+    "version": "7.0.20170228"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U3:7.0.20170329",
+    "version": "7.0.20170329"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U3:7.0.20170519",
+    "version": "7.0.20170519"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U3:7.0.20170628",
+    "version": "7.0.20170628"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U3:7.0.20170720",
+    "version": "7.0.20170720"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter-smalldisk:3.0.20170415",
+    "version": "3.0.20170415"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter-smalldisk:3.0.20170510",
+    "version": "3.0.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter-smalldisk:3.127.20170619",
+    "version": "3.127.20170619"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter-smalldisk:3.127.20170712",
+    "version": "3.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter-smalldisk:3.127.20170811",
+    "version": "3.127.20170811"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter-smalldisk:3.127.20170918",
+    "version": "3.127.20170918"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter-smalldisk:3.127.20171017",
+    "version": "3.127.20171017"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter-smalldisk:3.127.20171115",
+    "version": "3.127.20171115"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-Datacenter-smalldisk:3.127.20180111",
+    "version": "3.127.20180111"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016CN-WS2016",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016CN-WS2016:5.0.5827",
+    "version": "5.0.5827"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U3-Preview:7.0.20161026",
+    "version": "7.0.20161026"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U3-Preview:7.0.20161115",
+    "version": "7.0.20161115"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U3-Preview:7.0.20170217",
+    "version": "7.0.20170217"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U3-Preview:7.0.20170222",
+    "version": "7.0.20170222"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U3-Preview:7.0.20170322",
+    "version": "7.0.20170322"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U3-Preview:7.0.20170517",
+    "version": "7.0.20170517"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U3-Preview:7.0.20170626",
+    "version": "7.0.20170626"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U3-Preview:7.0.20170718",
+    "version": "7.0.20170718"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U4-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U4-Preview:7.0.20170112",
+    "version": "7.0.20170112"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016HN-WS2012R2",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016HN-WS2012R2:5.0.5827",
+    "version": "5.0.5827"
+  },
+  {
+    "offer": "SQL2012SP4-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2012SP4-WS2012R2-BYOL:Enterprise:11.0.70010",
+    "version": "11.0.70010"
+  },
+  {
+    "offer": "SQL2012SP4-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2012SP4-WS2012R2-BYOL:Enterprise:11.0.70050",
+    "version": "11.0.70050"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U5",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U5:7.0.20170228",
+    "version": "7.0.20170228"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter:4.127.20170406",
+    "version": "4.127.20170406"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter:4.127.20170420",
+    "version": "4.127.20170420"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter:4.127.20170510",
+    "version": "4.127.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter:4.127.20170712",
+    "version": "4.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter:4.127.20170822",
+    "version": "4.127.20170822"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter:4.127.20170919",
+    "version": "4.127.20170919"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter:4.127.20171017",
+    "version": "4.127.20171017"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter:4.127.20171115",
+    "version": "4.127.20171115"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter:4.127.20171217",
+    "version": "4.127.20171217"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter:4.127.20180111",
+    "version": "4.127.20180111"
+  },
+  {
+    "offer": "SQL2012SP4-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2012SP4-WS2012R2-BYOL:Standard:11.0.70010",
+    "version": "11.0.70010"
+  },
+  {
+    "offer": "SQL2012SP4-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2012SP4-WS2012R2-BYOL:Standard:11.0.70050",
+    "version": "11.0.70050"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U6",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U6:7.0.20170414",
+    "version": "7.0.20170414"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter-smalldisk:4.0.20170415",
+    "version": "4.0.20170415"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter-smalldisk:4.0.20170510",
+    "version": "4.0.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter-smalldisk:4.127.20170630",
+    "version": "4.127.20170630"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter-smalldisk:4.127.20170712",
+    "version": "4.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter-smalldisk:4.127.20170822",
+    "version": "4.127.20170822"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter-smalldisk:4.127.20170919",
+    "version": "4.127.20170919"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter-smalldisk:4.127.20171017",
+    "version": "4.127.20171017"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter-smalldisk:4.127.20171115",
+    "version": "4.127.20171115"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter-smalldisk:4.127.20171217",
+    "version": "4.127.20171217"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2012-R2-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter-smalldisk:4.127.20180111",
+    "version": "4.127.20180111"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U8:7.0.20170602",
+    "version": "7.0.20170602"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U8:7.0.20170622",
+    "version": "7.0.20170622"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U8:7.0.20170717",
+    "version": "7.0.20170717"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U8:7.0.20171108",
+    "version": "7.0.20171108"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U8:7.0.20171127",
+    "version": "7.0.20171127"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U8:7.0.20180122",
+    "version": "7.0.20180122"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter:2016.127.20170406",
+    "version": "2016.127.20170406"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter:2016.127.20170421",
+    "version": "2016.127.20170421"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter:2016.127.20170510",
+    "version": "2016.127.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter:2016.127.20170630",
+    "version": "2016.127.20170630"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter:2016.127.20170712",
+    "version": "2016.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter:2016.127.20170822",
+    "version": "2016.127.20170822"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter:2016.127.20170918",
+    "version": "2016.127.20170918"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter:2016.127.20171017",
+    "version": "2016.127.20171017"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter:2016.127.20171116",
+    "version": "2016.127.20171116"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter:2016.127.20171217",
+    "version": "2016.127.20171217"
+  },
+  {
+    "offer": "SQL2014SP1-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2014SP1-WS2012R2-BYOL:Enterprise:12.0.44499",
+    "version": "12.0.44499"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U8-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U8-Preview:7.0.20170619",
+    "version": "7.0.20170619"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U8-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U8-Preview:7.0.20170712",
+    "version": "7.0.20170712"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BI-U8-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BI-U8-Preview:7.0.20171107",
+    "version": "7.0.20171107"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core:2016.127.20170406",
+    "version": "2016.127.20170406"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core:2016.127.20170411",
+    "version": "2016.127.20170411"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core:2016.127.20170510",
+    "version": "2016.127.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core:2016.127.20170630",
+    "version": "2016.127.20170630"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core:2016.127.20170712",
+    "version": "2016.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core:2016.127.20170822",
+    "version": "2016.127.20170822"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core:2016.127.20170918",
+    "version": "2016.127.20170918"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core:2016.127.20171017",
+    "version": "2016.127.20171017"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core:2016.127.20171115",
+    "version": "2016.127.20171115"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core:2016.127.20171216",
+    "version": "2016.127.20171216"
+  },
+  {
+    "offer": "SQL2014SP1-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2014SP1-WS2012R2-BYOL:Standard:12.0.444999",
+    "version": "12.0.444999"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core-smalldisk:2016.0.20170412",
+    "version": "2016.0.20170412"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core-smalldisk:2016.0.20170510",
+    "version": "2016.0.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core-smalldisk:2016.127.20170630",
+    "version": "2016.127.20170630"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core-smalldisk:2016.127.20170822",
+    "version": "2016.127.20170822"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core-smalldisk:2016.127.20170918",
+    "version": "2016.127.20170918"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core-smalldisk:2016.127.20171017",
+    "version": "2016.127.20171017"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core-smalldisk:2016.127.20171115",
+    "version": "2016.127.20171115"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-Server-Core-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-Server-Core-smalldisk:2016.127.20171216",
+    "version": "2016.127.20171216"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-smalldisk:2016.0.20170412",
+    "version": "2016.0.20170412"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-smalldisk:2016.0.20170510",
+    "version": "2016.0.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-smalldisk:2016.127.20170630",
+    "version": "2016.127.20170630"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-smalldisk:2016.127.20170712",
+    "version": "2016.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-smalldisk:2016.127.20170822",
+    "version": "2016.127.20170822"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-smalldisk:2016.127.20170918",
+    "version": "2016.127.20170918"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-smalldisk:2016.127.20171017",
+    "version": "2016.127.20171017"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-smalldisk:2016.127.20171115",
+    "version": "2016.127.20171115"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-smalldisk:2016.127.20171217",
+    "version": "2016.127.20171217"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-Containers",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-Containers:2016.127.20170406",
+    "version": "2016.127.20170406"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-Containers",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-Containers:2016.127.20170411",
+    "version": "2016.127.20170411"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-Containers",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-Containers:2016.127.20170510",
+    "version": "2016.127.20170510"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-Containers",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-Containers:2016.127.20170619",
+    "version": "2016.127.20170619"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-Containers",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-Containers:2016.127.20170712",
+    "version": "2016.127.20170712"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-Containers",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-Containers:2016.127.20170811",
+    "version": "2016.127.20170811"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-Containers",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-Containers:2016.127.20170918",
+    "version": "2016.127.20170918"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-Containers",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-Containers:2016.127.20171026",
+    "version": "2016.127.20171026"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-Containers",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-Containers:2016.127.20171116",
+    "version": "2016.127.20171116"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-Containers",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-Containers:2016.127.20171216",
+    "version": "2016.127.20171216"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Datacenter-with-RDSH",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-RDSH:2016.127.20170629",
+    "version": "2016.127.20170629"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20161012",
+    "version": "2016.0.20161012"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20161109",
+    "version": "2016.0.20161109"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20170113",
+    "version": "2016.0.20170113"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20170328",
+    "version": "2016.0.20170328"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20170418",
+    "version": "2016.0.20170418"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20170511",
+    "version": "2016.0.20170511"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20170620",
+    "version": "2016.0.20170620"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20170720",
+    "version": "2016.0.20170720"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20170816",
+    "version": "2016.0.20170816"
+  },
+  {
+    "offer": "WindowsServer",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "2016-Nano-Server",
+    "urn": "MicrosoftWindowsServer:WindowsServer:2016-Nano-Server:2016.0.20170927",
+    "version": "2016.0.20170927"
+  },
+  {
+    "offer": "WindowsServerSemiAnnual",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "Datacenter-Core-1709-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServerSemiAnnual:Datacenter-Core-1709-smalldisk:1709.0.20171012",
+    "version": "1709.0.20171012"
+  },
+  {
+    "offer": "WindowsServerSemiAnnual",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "Datacenter-Core-1709-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServerSemiAnnual:Datacenter-Core-1709-smalldisk:1709.0.20171116",
+    "version": "1709.0.20171116"
+  },
+  {
+    "offer": "WindowsServerSemiAnnual",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "Datacenter-Core-1709-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServerSemiAnnual:Datacenter-Core-1709-smalldisk:1709.0.20171219",
+    "version": "1709.0.20171219"
+  },
+  {
+    "offer": "WindowsServerSemiAnnual",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "Datacenter-Core-1709-with-Containers-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServerSemiAnnual:Datacenter-Core-1709-with-Containers-smalldisk:1709.0.20171012",
+    "version": "1709.0.20171012"
+  },
+  {
+    "offer": "WindowsServerSemiAnnual",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "Datacenter-Core-1709-with-Containers-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServerSemiAnnual:Datacenter-Core-1709-with-Containers-smalldisk:1709.0.20171115",
+    "version": "1709.0.20171115"
+  },
+  {
+    "offer": "WindowsServerSemiAnnual",
+    "publisher": "MicrosoftWindowsServer",
+    "sku": "Datacenter-Core-1709-with-Containers-smalldisk",
+    "urn": "MicrosoftWindowsServer:WindowsServerSemiAnnual:Datacenter-Core-1709-with-Containers-smalldisk:1709.0.20171219",
+    "version": "1709.0.20171219"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016HN-WS2016",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016HN-WS2016:5.0.5827",
+    "version": "5.0.5827"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016U1CN-WS2012R2",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016U1CN-WS2012R2:5.1.6039",
+    "version": "5.1.6039"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016U1CN-WS2012R2",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016U1CN-WS2012R2:5.1.6086",
+    "version": "5.1.6086"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016U1CN-WS2012R2-Excel",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016U1CN-WS2012R2-Excel:5.1.6039",
+    "version": "5.1.6039"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016U1CN-WS2012R2-Excel",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016U1CN-WS2012R2-Excel:5.1.6086",
+    "version": "5.1.6086"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016U1CN-WS2016",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016U1CN-WS2016:5.1.6039",
+    "version": "5.1.6039"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016U1CN-WS2016",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016U1CN-WS2016:5.1.6086",
+    "version": "5.1.6086"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-BVT-V1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-BVT-V1:7.0.20171212",
+    "version": "7.0.20171212"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016U1CN-WS2016-Excel",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016U1CN-WS2016-Excel:5.1.6039",
+    "version": "5.1.6039"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016U1CN-WS2016-Excel",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016U1CN-WS2016-Excel:5.1.6086",
+    "version": "5.1.6086"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Gate-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Gate-RTWU1:7.0.20160419",
+    "version": "7.0.20160419"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Gate-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Gate-RTWU1:7.0.20160426",
+    "version": "7.0.20160426"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2:Enterprise:12.10.0",
+    "version": "12.10.0"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2:Enterprise:12.5.50001",
+    "version": "12.5.50001"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2:Enterprise:12.9.50001",
+    "version": "12.9.50001"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016U1HN-WS2012R2",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016U1HN-WS2012R2:5.1.6039",
+    "version": "5.1.6039"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016U1HN-WS2012R2",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016U1HN-WS2012R2:5.1.6086",
+    "version": "5.1.6086"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Gate-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Gate-RTWU1-Preview:7.0.20160420",
+    "version": "7.0.20160420"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2:Express:12.10.0",
+    "version": "12.10.0"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2:Express:12.5.50001",
+    "version": "12.5.50001"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2:Express:12.5.50002",
+    "version": "12.5.50002"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2:Express:12.5.50004",
+    "version": "12.5.50004"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2:Express:12.9.50001",
+    "version": "12.9.50001"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-LBD-V1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-LBD-V1:7.0.20171013",
+    "version": "7.0.20171013"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016U1HN-WS2016",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016U1HN-WS2016:5.1.6039",
+    "version": "5.1.6039"
+  },
+  {
+    "offer": "WindowsServerHPCPack",
+    "publisher": "MicrosoftWindowsServerHPCPack",
+    "sku": "2016U1HN-WS2016",
+    "urn": "MicrosoftWindowsServerHPCPack:WindowsServerHPCPack:2016U1HN-WS2016:5.1.6086",
+    "version": "5.1.6086"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.201507",
+    "version": "7.0.201507"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20150726",
+    "version": "7.0.20150726"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20150728",
+    "version": "7.0.20150728"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20150820",
+    "version": "7.0.20150820"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20150911",
+    "version": "7.0.20150911"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20151013",
+    "version": "7.0.20151013"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20151029",
+    "version": "7.0.20151029"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20151113",
+    "version": "7.0.20151113"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20151119",
+    "version": "7.0.20151119"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20151125",
+    "version": "7.0.20151125"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20151203",
+    "version": "7.0.20151203"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20160108",
+    "version": "7.0.20160108"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20160112",
+    "version": "7.0.20160112"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20160125",
+    "version": "7.0.20160125"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20160203",
+    "version": "7.0.20160203"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20160204",
+    "version": "7.0.20160204"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20160217",
+    "version": "7.0.20160217"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20160315",
+    "version": "7.0.20160315"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20160323",
+    "version": "7.0.20160323"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20160325",
+    "version": "7.0.20160325"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20160622",
+    "version": "7.0.20160622"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-OneBox",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-OneBox:7.0.20170518",
+    "version": "7.0.20170518"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2:Standard:12.10.0",
+    "version": "12.10.0"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2:Standard:12.5.50001",
+    "version": "12.5.50001"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2:Standard:12.9.50001",
+    "version": "12.9.50001"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-Preview:7.0.20170515",
+    "version": "7.0.20170515"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2:Web:12.10.0",
+    "version": "12.10.0"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2:Web:12.5.50001",
+    "version": "12.5.50001"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2:Web:12.9.50001",
+    "version": "12.9.50001"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU1:7.0.20160329",
+    "version": "7.0.20160329"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU1:7.0.20160518",
+    "version": "7.0.20160518"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU1:7.0.20160707",
+    "version": "7.0.20160707"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU1:7.0.20161026",
+    "version": "7.0.20161026"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU1:7.0.20170517",
+    "version": "7.0.20170517"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU1-Preview:7.0.20160419",
+    "version": "7.0.20160419"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU1-Preview:7.0.20160426",
+    "version": "7.0.20160426"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU1-Preview:7.0.20160624",
+    "version": "7.0.20160624"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU1-Preview:7.0.20161019",
+    "version": "7.0.20161019"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU1-Preview:7.0.20170516",
+    "version": "7.0.20170516"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2-BYOL:Enterprise:12.0.800000",
+    "version": "12.0.800000"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2-BYOL:Enterprise:12.10.0",
+    "version": "12.10.0"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2-BYOL:Enterprise:12.9.50005",
+    "version": "12.9.50005"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU2:7.0.20160628",
+    "version": "7.0.20160628"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU2:7.0.20160708",
+    "version": "7.0.20160708"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU2:7.0.20160709",
+    "version": "7.0.20160709"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU2:7.0.20160913",
+    "version": "7.0.20160913"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU2:7.0.20161026",
+    "version": "7.0.20161026"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU2:7.0.20170517",
+    "version": "7.0.20170517"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU2:7.0.20170724",
+    "version": "7.0.20170724"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2-BYOL:Standard:12.0.800000",
+    "version": "12.0.800000"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2-BYOL:Standard:12.10.0",
+    "version": "12.10.0"
+  },
+  {
+    "offer": "SQL2014SP2-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2014SP2-WS2012R2-BYOL:Standard:12.7.50005",
+    "version": "12.7.50005"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU2-Preview:7.0.20160621",
+    "version": "7.0.20160621"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU2-Preview:7.0.20160829",
+    "version": "7.0.20160829"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU2-Preview:7.0.20161017",
+    "version": "7.0.20161017"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU2-Preview:7.0.20161018",
+    "version": "7.0.20161018"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU2-Preview:7.0.20170719",
+    "version": "7.0.20170719"
+  },
+  {
+    "offer": "SQL2016-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2016-WS2012R2:Enterprise:13.5.31640",
+    "version": "13.5.31640"
+  },
+  {
+    "offer": "SQL2016-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2016-WS2012R2:SQLDEV:13.5.31640",
+    "version": "13.5.31640"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-RTWU2-SN",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-RTWU2-SN:7.0.20160714",
+    "version": "7.0.20160714"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U3:7.0.20160930",
+    "version": "7.0.20160930"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U3:7.0.20161114",
+    "version": "7.0.20161114"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U3:7.0.20170228",
+    "version": "7.0.20170228"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U3:7.0.20170403",
+    "version": "7.0.20170403"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U3:7.0.20170519",
+    "version": "7.0.20170519"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U3:7.0.20170628",
+    "version": "7.0.20170628"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U3:7.0.20170720",
+    "version": "7.0.20170720"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U3-Preview:7.0.20161026",
+    "version": "7.0.20161026"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U3-Preview:7.0.20161115",
+    "version": "7.0.20161115"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U3-Preview:7.0.20170217",
+    "version": "7.0.20170217"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U3-Preview:7.0.20170221",
+    "version": "7.0.20170221"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U3-Preview:7.0.20170329",
+    "version": "7.0.20170329"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U3-Preview:7.0.20170517",
+    "version": "7.0.20170517"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U3-Preview:7.0.20170626",
+    "version": "7.0.20170626"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U3-Preview:7.0.20170718",
+    "version": "7.0.20170718"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U4-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U4-Preview:7.0.20170110",
+    "version": "7.0.20170110"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U4-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U4-Preview:7.0.20170111",
+    "version": "7.0.20170111"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U5",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U5:7.0.20170228",
+    "version": "7.0.20170228"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U6",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U6:7.0.20170414",
+    "version": "7.0.20170414"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U7",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U7:7.0.20170503",
+    "version": "7.0.20170503"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U7",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U7:7.0.20170504",
+    "version": "7.0.20170504"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U8:7.0.20170602",
+    "version": "7.0.20170602"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U8:7.0.20170622",
+    "version": "7.0.20170622"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U8:7.0.20170717",
+    "version": "7.0.20170717"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U8:7.0.20171108",
+    "version": "7.0.20171108"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U8:7.0.20180118",
+    "version": "7.0.20180118"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U8-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U8-Preview:7.0.20170614",
+    "version": "7.0.20170614"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-U8-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-U8-Preview:7.0.20170712",
+    "version": "7.0.20170712"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT:7.0.20151029",
+    "version": "7.0.20151029"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT:7.0.20151113",
+    "version": "7.0.20151113"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT:7.0.20151119",
+    "version": "7.0.20151119"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT:7.0.20151125",
+    "version": "7.0.20151125"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT:7.0.20160108",
+    "version": "7.0.20160108"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT:7.0.20160113",
+    "version": "7.0.20160113"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT:7.0.20160125",
+    "version": "7.0.20160125"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT:7.0.20160203",
+    "version": "7.0.20160203"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT:7.0.20160217",
+    "version": "7.0.20160217"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT:7.0.20160315",
+    "version": "7.0.20160315"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT:7.0.20160323",
+    "version": "7.0.20160323"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT:7.0.20160622",
+    "version": "7.0.20160622"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT:7.0.20170518",
+    "version": "7.0.20170518"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-Preview:7.0.20170515",
+    "version": "7.0.20170515"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU1:7.0.20160329",
+    "version": "7.0.20160329"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU1:7.0.20160419",
+    "version": "7.0.20160419"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU1:7.0.20160518",
+    "version": "7.0.20160518"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU1:7.0.20160707",
+    "version": "7.0.20160707"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU1:7.0.20161026",
+    "version": "7.0.20161026"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU1:7.0.20170520",
+    "version": "7.0.20170520"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU1-Preview:7.0.20160426",
+    "version": "7.0.20160426"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU1-Preview:7.0.20160624",
+    "version": "7.0.20160624"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU1-Preview:7.0.20161019",
+    "version": "7.0.20161019"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU1-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU1-Preview:7.0.20170516",
+    "version": "7.0.20170516"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU2:7.0.20160628",
+    "version": "7.0.20160628"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU2:7.0.20160708",
+    "version": "7.0.20160708"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU2:7.0.20160913",
+    "version": "7.0.20160913"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU2:7.0.20161026",
+    "version": "7.0.20161026"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU2:7.0.20170517",
+    "version": "7.0.20170517"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU2",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU2:7.0.20170724",
+    "version": "7.0.20170724"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU2-Preview:7.0.20160621",
+    "version": "7.0.20160621"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU2-Preview:7.0.20160829",
+    "version": "7.0.20160829"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU2-Preview:7.0.20161017",
+    "version": "7.0.20161017"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU2-Preview:7.0.20161018",
+    "version": "7.0.20161018"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU2-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU2-Preview:7.0.20170719",
+    "version": "7.0.20170719"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-RTWU2-SN",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-RTWU2-SN:7.0.20160714",
+    "version": "7.0.20160714"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U3:7.0.20160930",
+    "version": "7.0.20160930"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U3:7.0.20161114",
+    "version": "7.0.20161114"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U3:7.0.20170228",
+    "version": "7.0.20170228"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U3:7.0.20170403",
+    "version": "7.0.20170403"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U3:7.0.20170521",
+    "version": "7.0.20170521"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U3:7.0.20170628",
+    "version": "7.0.20170628"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U3",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U3:7.0.20170720",
+    "version": "7.0.20170720"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U3-Preview:7.0.20161026",
+    "version": "7.0.20161026"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U3-Preview:7.0.20161115",
+    "version": "7.0.20161115"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U3-Preview:7.0.20170217",
+    "version": "7.0.20170217"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U3-Preview:7.0.20170222",
+    "version": "7.0.20170222"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U3-Preview:7.0.20170517",
+    "version": "7.0.20170517"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U3-Preview:7.0.20170626",
+    "version": "7.0.20170626"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U3-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U3-Preview:7.0.20170718",
+    "version": "7.0.20170718"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U4-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U4-Preview:7.0.20170112",
+    "version": "7.0.20170112"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U5",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U5:7.0.20170301",
+    "version": "7.0.20170301"
+  },
+  {
+    "offer": "SQL2016-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2016-WS2012R2-BYOL:Enterprise:13.0.21640",
+    "version": "13.0.21640"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U6",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U6:7.0.20170414",
+    "version": "7.0.20170414"
+  },
+  {
+    "offer": "SQL2016-WS2012R2-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2016-WS2012R2-BYOL:Standard:13.0.21640",
+    "version": "13.0.21640"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U8:7.0.20170602",
+    "version": "7.0.20170602"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U8:7.0.20170622",
+    "version": "7.0.20170622"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U8:7.0.20170717",
+    "version": "7.0.20170717"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U8:7.0.20171108",
+    "version": "7.0.20171108"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U8",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U8:7.0.20180118",
+    "version": "7.0.20180118"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U8-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U8-Preview:7.0.20170614",
+    "version": "7.0.20170614"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-U8-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-U8-Preview:7.0.20170712",
+    "version": "7.0.20170712"
+  },
+  {
+    "offer": "SQL2016-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2016-WS2016:SQLDEV:13.0.21640",
+    "version": "13.0.21640"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-Onebox-VSENT-US",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-Onebox-VSENT-US:7.0.20170228",
+    "version": "7.0.20170228"
+  },
+  {
+    "offer": "SQL2016SP1-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2012R2:Enterprise:13.1.700203",
+    "version": "13.1.700203"
+  },
+  {
+    "offer": "SQL2016SP1-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2012R2:Enterprise:13.1.900302",
+    "version": "13.1.900302"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-PowerApps",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-PowerApps:7.0.20160322",
+    "version": "7.0.20160322"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-PowerApps",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-PowerApps:7.0.20160404",
+    "version": "7.0.20160404"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-PowerApps",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-PowerApps:7.0.20160406",
+    "version": "7.0.20160406"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-PowerApps",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-PowerApps:7.0.20160421",
+    "version": "7.0.20160421"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-PowerApps",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-PowerApps:7.0.20160711",
+    "version": "7.0.20160711"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-PowerApps",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-PowerApps:7.0.20161013",
+    "version": "7.0.20161013"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-PowerApps",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-PowerApps:7.0.20161014",
+    "version": "7.0.20161014"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-PowerApps",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-PowerApps:7.0.20170523",
+    "version": "7.0.20170523"
+  },
+  {
+    "offer": "SQL2016SP1-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2012R2:Express:13.1.700203",
+    "version": "13.1.700203"
+  },
+  {
+    "offer": "SQL2016SP1-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2012R2:Express:13.1.900302",
+    "version": "13.1.900302"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-PowerApps-Blank",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-PowerApps-Blank:7.0.20161025",
+    "version": "7.0.20161025"
+  },
+  {
+    "offer": "SQL2016SP1-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2012R2:SQLDEV:13.1.900300",
+    "version": "13.1.900300"
+  },
+  {
+    "offer": "SQL2016SP1-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2012R2:SQLDEV:13.1.900302",
+    "version": "13.1.900302"
+  },
+  {
+    "offer": "SQL2016SP1-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2012R2:Standard:13.1.700202",
+    "version": "13.1.700202"
+  },
+  {
+    "offer": "SQL2016SP1-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2012R2:Standard:13.1.900302",
+    "version": "13.1.900302"
+  },
+  {
+    "offer": "SQL2016SP1-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2012R2:Web:13.1.700202",
+    "version": "13.1.700202"
+  },
+  {
+    "offer": "SQL2016SP1-WS2012R2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2012R2:Web:13.1.900302",
+    "version": "13.1.900302"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Enterprise:13.0.500110",
+    "version": "13.0.500110"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Enterprise:13.1.500110",
+    "version": "13.1.500110"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Enterprise:13.1.700202",
+    "version": "13.1.700202"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Enterprise:13.1.700203",
+    "version": "13.1.700203"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Enterprise:13.1.700301",
+    "version": "13.1.700301"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Enterprise:13.1.900302",
+    "version": "13.1.900302"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Express:13.0.500110",
+    "version": "13.0.500110"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Express:13.1.500110",
+    "version": "13.1.500110"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Express:13.1.700202",
+    "version": "13.1.700202"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Express:13.1.700203",
+    "version": "13.1.700203"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Express:13.1.700300",
+    "version": "13.1.700300"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Express:13.1.900302",
+    "version": "13.1.900302"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:SQLDEV:13.0.500110",
+    "version": "13.0.500110"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:SQLDEV:13.1.500110",
+    "version": "13.1.500110"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:SQLDEV:13.1.700112",
+    "version": "13.1.700112"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:SQLDEV:13.1.700400",
+    "version": "13.1.700400"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:SQLDEV:13.1.900302",
+    "version": "13.1.900302"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Standard:13.0.500110",
+    "version": "13.0.500110"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Standard:13.1.500110",
+    "version": "13.1.500110"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Standard:13.1.700202",
+    "version": "13.1.700202"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Standard:13.1.700301",
+    "version": "13.1.700301"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Standard:13.1.900302",
+    "version": "13.1.900302"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Web:13.0.500110",
+    "version": "13.0.500110"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Web:13.1.500110",
+    "version": "13.1.500110"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Web:13.1.700202",
+    "version": "13.1.700202"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Web:13.1.700300",
+    "version": "13.1.700300"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016:Web:13.1.900302",
+    "version": "13.1.900302"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016-BYOL:Enterprise:13.0.500110",
+    "version": "13.0.500110"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016-BYOL:Enterprise:13.0.80000",
+    "version": "13.0.80000"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016-BYOL:Enterprise:13.1.500111",
+    "version": "13.1.500111"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016-BYOL:Enterprise:13.1.900303",
+    "version": "13.1.900303"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016-BYOL:Standard:13.0.500110",
+    "version": "13.0.500110"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016-BYOL:Standard:13.0.80000",
+    "version": "13.0.80000"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016-BYOL:Standard:13.1.500111",
+    "version": "13.1.500111"
+  },
+  {
+    "offer": "SQL2016SP1-WS2016-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2016SP1-WS2016-BYOL:Standard:13.1.900303",
+    "version": "13.1.900303"
+  },
+  {
+    "offer": "SQL2017-RHEL7",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2017-RHEL7:Enterprise:14.0.1000205",
+    "version": "14.0.1000205"
+  },
+  {
+    "offer": "SQL2017-RHEL7",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2017-RHEL7:Enterprise:14.0.1000210",
+    "version": "14.0.1000210"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-PowerApps-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-PowerApps-Preview:7.0.20161006",
+    "version": "7.0.20161006"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-PowerApps-Preview",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-PowerApps-Preview:7.0.20161012",
+    "version": "7.0.20161012"
+  },
+  {
+    "offer": "SQL2017-RHEL7",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2017-RHEL7:Express:14.0.1000205",
+    "version": "14.0.1000205"
+  },
+  {
+    "offer": "SQL2017-RHEL7",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2017-RHEL7:Express:14.0.1000210",
+    "version": "14.0.1000210"
+  },
+  {
+    "offer": "SQL2017-RHEL7",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2017-RHEL7:SQLDEV:14.0.1000206",
+    "version": "14.0.1000206"
+  },
+  {
+    "offer": "SQL2017-RHEL7",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2017-RHEL7:SQLDEV:14.0.1000210",
+    "version": "14.0.1000210"
+  },
+  {
+    "offer": "SQL2017-RHEL7",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2017-RHEL7:Standard:14.0.1000205",
+    "version": "14.0.1000205"
+  },
+  {
+    "offer": "SQL2017-RHEL7",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2017-RHEL7:Standard:14.0.1000210",
+    "version": "14.0.1000210"
+  },
+  {
+    "offer": "SQL2017-RHEL7",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2017-RHEL7:Web:14.0.1000205",
+    "version": "14.0.1000205"
+  },
+  {
+    "offer": "SQL2017-RHEL7",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2017-RHEL7:Web:14.0.1000210",
+    "version": "14.0.1000210"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-PowerApps-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-PowerApps-RTWU1:7.0.20160329",
+    "version": "7.0.20160329"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-UT-RTWU1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-UT-RTWU1:7.0.20160610",
+    "version": "7.0.20160610"
+  },
+  {
+    "offer": "SQL2017-RHEL73",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Evaluation",
+    "urn": "MicrosoftSQLServer:SQL2017-RHEL73:Evaluation:2.0.0",
+    "version": "2.0.0"
+  },
+  {
+    "offer": "SQL2017-SLES12SP2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2017-SLES12SP2:Enterprise:14.0.1000206",
+    "version": "14.0.1000206"
+  },
+  {
+    "offer": "SQL2017-SLES12SP2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2017-SLES12SP2:Enterprise:14.0.1000210",
+    "version": "14.0.1000210"
+  },
+  {
+    "offer": "SQL2017-SLES12SP2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2017-SLES12SP2:Express:14.0.1000206",
+    "version": "14.0.1000206"
+  },
+  {
+    "offer": "SQL2017-SLES12SP2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2017-SLES12SP2:Express:14.0.1000210",
+    "version": "14.0.1000210"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-UT-U4",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-UT-U4:7.0.20161110",
+    "version": "7.0.20161110"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-UT-U4",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-UT-U4:7.0.20161201",
+    "version": "7.0.20161201"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-UT-U4",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-UT-U4:7.0.20170215",
+    "version": "7.0.20170215"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-UT-U4",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-UT-U4:7.0.20170216",
+    "version": "7.0.20170216"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-UT-U4",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-UT-U4:7.0.20170322",
+    "version": "7.0.20170322"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-UT-U4",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-UT-U4:7.0.20170515",
+    "version": "7.0.20170515"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-UT-U4",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-UT-U4:7.0.20170607",
+    "version": "7.0.20170607"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-UT-U4",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-UT-U4:7.0.20170620",
+    "version": "7.0.20170620"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-UT-U4",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-UT-U4:7.0.20171211",
+    "version": "7.0.20171211"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-UT-V1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-UT-V1:7.0.20171115",
+    "version": "7.0.20171115"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-AX7-UT-V1",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-AX7-UT-V1:7.0.20180131",
+    "version": "7.0.20180131"
+  },
+  {
+    "offer": "Dynamics",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-Dynamics-RTS",
+    "urn": "MicrosoftDynamicsAX:Dynamics:Pre-Req-Dynamics-RTS:7.0.20170518",
+    "version": "7.0.20170518"
+  },
+  {
+    "offer": "SQL2017-SLES12SP2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2017-SLES12SP2:SQLDEV:14.0.1000206",
+    "version": "14.0.1000206"
+  },
+  {
+    "offer": "SQL2017-SLES12SP2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2017-SLES12SP2:SQLDEV:14.0.1000210",
+    "version": "14.0.1000210"
+  },
+  {
+    "offer": "SQL2017-SLES12SP2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2017-SLES12SP2:Standard:14.0.1000206",
+    "version": "14.0.1000206"
+  },
+  {
+    "offer": "SQL2017-SLES12SP2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2017-SLES12SP2:Standard:14.0.1000210",
+    "version": "14.0.1000210"
+  },
+  {
+    "offer": "DynamicsAX",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-2012-R3-AOS",
+    "urn": "MicrosoftDynamicsAX:DynamicsAX:Pre-Req-2012-R3-AOS:6.3.201705",
+    "version": "6.3.201705"
+  },
+  {
+    "offer": "DynamicsAX",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-2012-R3-AOS-Prod",
+    "urn": "MicrosoftDynamicsAX:DynamicsAX:Pre-Req-2012-R3-AOS-Prod:6.3.201705",
+    "version": "6.3.201705"
+  },
+  {
+    "offer": "SQL2017-SLES12SP2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2017-SLES12SP2:Web:14.0.1000206",
+    "version": "14.0.1000206"
+  },
+  {
+    "offer": "SQL2017-SLES12SP2",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2017-SLES12SP2:Web:14.0.1000210",
+    "version": "14.0.1000210"
+  },
+  {
+    "offer": "DynamicsAX",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-2012-R3-AOS-Test",
+    "urn": "MicrosoftDynamicsAX:DynamicsAX:Pre-Req-2012-R3-AOS-Test:6.3.201503",
+    "version": "6.3.201503"
+  },
+  {
+    "offer": "SQL2017-Ubuntu1604",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2017-Ubuntu1604:Enterprise:14.0.1000205",
+    "version": "14.0.1000205"
+  },
+  {
+    "offer": "SQL2017-Ubuntu1604",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2017-Ubuntu1604:Enterprise:14.0.1000210",
+    "version": "14.0.1000210"
+  },
+  {
+    "offer": "DynamicsAX",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-2012-R3-AXOneBox",
+    "urn": "MicrosoftDynamicsAX:DynamicsAX:Pre-Req-2012-R3-AXOneBox:6.3.201705",
+    "version": "6.3.201705"
+  },
+  {
+    "offer": "SQL2017-Ubuntu1604",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2017-Ubuntu1604:Express:14.0.1000205",
+    "version": "14.0.1000205"
+  },
+  {
+    "offer": "SQL2017-Ubuntu1604",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2017-Ubuntu1604:Express:14.0.1000210",
+    "version": "14.0.1000210"
+  },
+  {
+    "offer": "DynamicsAX",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-2012-R3-Client",
+    "urn": "MicrosoftDynamicsAX:DynamicsAX:Pre-Req-2012-R3-Client:6.3.201705",
+    "version": "6.3.201705"
+  },
+  {
+    "offer": "SQL2017-Ubuntu1604",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2017-Ubuntu1604:SQLDEV:14.0.1000205",
+    "version": "14.0.1000205"
+  },
+  {
+    "offer": "SQL2017-Ubuntu1604",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2017-Ubuntu1604:SQLDEV:14.0.1000208",
+    "version": "14.0.1000208"
+  },
+  {
+    "offer": "SQL2017-Ubuntu1604",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2017-Ubuntu1604:SQLDEV:14.0.1000210",
+    "version": "14.0.1000210"
+  },
+  {
+    "offer": "SQL2017-Ubuntu1604",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2017-Ubuntu1604:Standard:14.0.1000205",
+    "version": "14.0.1000205"
+  },
+  {
+    "offer": "SQL2017-Ubuntu1604",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2017-Ubuntu1604:Standard:14.0.1000210",
+    "version": "14.0.1000210"
+  },
+  {
+    "offer": "DynamicsAX",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-2012-R3-Client-Prod",
+    "urn": "MicrosoftDynamicsAX:DynamicsAX:Pre-Req-2012-R3-Client-Prod:6.3.201705",
+    "version": "6.3.201705"
+  },
+  {
+    "offer": "SQL2017-Ubuntu1604",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2017-Ubuntu1604:Web:14.0.1000205",
+    "version": "14.0.1000205"
+  },
+  {
+    "offer": "SQL2017-Ubuntu1604",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2017-Ubuntu1604:Web:14.0.1000210",
+    "version": "14.0.1000210"
+  },
+  {
+    "offer": "DynamicsAX",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-2012-R3-Client-Test",
+    "urn": "MicrosoftDynamicsAX:DynamicsAX:Pre-Req-2012-R3-Client-Test:6.3.201503",
+    "version": "6.3.201503"
+  },
+  {
+    "offer": "DynamicsAX",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-2012-R3-DatabaseServer",
+    "urn": "MicrosoftDynamicsAX:DynamicsAX:Pre-Req-2012-R3-DatabaseServer:6.3.201503",
+    "version": "6.3.201503"
+  },
+  {
+    "offer": "DynamicsAX",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-2012-R3-DatabaseServer",
+    "urn": "MicrosoftDynamicsAX:DynamicsAX:Pre-Req-2012-R3-DatabaseServer:6.3.201705",
+    "version": "6.3.201705"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Enterprise:14.0.1000200",
+    "version": "14.0.1000200"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Enterprise:14.0.1000201",
+    "version": "14.0.1000201"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Enterprise:14.0.1000202",
+    "version": "14.0.1000202"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Enterprise:14.0.1000203",
+    "version": "14.0.1000203"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Enterprise:14.0.1000204",
+    "version": "14.0.1000204"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Express:14.0.1000200",
+    "version": "14.0.1000200"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Express:14.0.1000201",
+    "version": "14.0.1000201"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Express:14.0.1000202",
+    "version": "14.0.1000202"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Express:14.0.1000203",
+    "version": "14.0.1000203"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Express",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Express:14.0.1000204",
+    "version": "14.0.1000204"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:SQLDEV:14.0.1000200",
+    "version": "14.0.1000200"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:SQLDEV:14.0.1000201",
+    "version": "14.0.1000201"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:SQLDEV:14.0.1000202",
+    "version": "14.0.1000202"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:SQLDEV:14.0.1000203",
+    "version": "14.0.1000203"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "SQLDEV",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:SQLDEV:14.0.1000204",
+    "version": "14.0.1000204"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Standard:14.0.1000200",
+    "version": "14.0.1000200"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Standard:14.0.1000201",
+    "version": "14.0.1000201"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Standard:14.0.1000202",
+    "version": "14.0.1000202"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Standard:14.0.1000203",
+    "version": "14.0.1000203"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Standard:14.0.1000204",
+    "version": "14.0.1000204"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Web:14.0.1000200",
+    "version": "14.0.1000200"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Web:14.0.1000201",
+    "version": "14.0.1000201"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Web:14.0.1000202",
+    "version": "14.0.1000202"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Web:14.0.1000203",
+    "version": "14.0.1000203"
+  },
+  {
+    "offer": "SQL2017-WS2016",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Web",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016:Web:14.0.1000204",
+    "version": "14.0.1000204"
+  },
+  {
+    "offer": "SQL2017-WS2016-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016-BYOL:Enterprise:14.0.1000205",
+    "version": "14.0.1000205"
+  },
+  {
+    "offer": "SQL2017-WS2016-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016-BYOL:Enterprise:14.0.1000306",
+    "version": "14.0.1000306"
+  },
+  {
+    "offer": "SQL2017-WS2016-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Enterprise",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016-BYOL:Enterprise:14.0.1000307",
+    "version": "14.0.1000307"
+  },
+  {
+    "offer": "SQL2017-WS2016-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016-BYOL:Standard:14.0.1000302",
+    "version": "14.0.1000302"
+  },
+  {
+    "offer": "SQL2017-WS2016-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016-BYOL:Standard:14.0.1000306",
+    "version": "14.0.1000306"
+  },
+  {
+    "offer": "SQL2017-WS2016-BYOL",
+    "publisher": "MicrosoftSQLServer",
+    "sku": "Standard",
+    "urn": "MicrosoftSQLServer:SQL2017-WS2016-BYOL:Standard:14.0.1000307",
+    "version": "14.0.1000307"
+  },
+  {
+    "offer": "DynamicsAX",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-2012-R3-EnterprisePortal",
+    "urn": "MicrosoftDynamicsAX:DynamicsAX:Pre-Req-2012-R3-EnterprisePortal:6.3.201503",
+    "version": "6.3.201503"
+  },
+  {
+    "offer": "DynamicsAX",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-2012-R3-EnterprisePortal",
+    "urn": "MicrosoftDynamicsAX:DynamicsAX:Pre-Req-2012-R3-EnterprisePortal:6.3.201705",
+    "version": "6.3.201705"
+  },
+  {
+    "offer": "DynamicsAX",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-2012-R3-RetailE-Commerce",
+    "urn": "MicrosoftDynamicsAX:DynamicsAX:Pre-Req-2012-R3-RetailE-Commerce:6.3.201705",
+    "version": "6.3.201705"
+  },
+  {
+    "offer": "DynamicsAX",
+    "publisher": "MicrosoftDynamicsAX",
+    "sku": "Pre-Req-2012-R3-RetailEssentials",
+    "urn": "MicrosoftDynamicsAX:DynamicsAX:Pre-Req-2012-R3-RetailEssentials:6.3.201705",
+    "version": "6.3.201705"
+  }
+]
