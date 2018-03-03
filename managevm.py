@@ -1,4 +1,5 @@
 from manageresource import *
+from managestorage import *
 # import azure.mgmt.storage.models
 # import azure.mgmt.storage.models.AccountType
 # import azure.mgmt.compute.models
@@ -10,6 +11,8 @@ import azure.mgmt.compute
 from azure.mgmt.storage.models import StorageAccountCreateParameters
 from azure.mgmt.storage.models import Sku, SkuName, Kind
 from msrestazure.azure_exceptions import CloudError
+from azure.mgmt.compute import ComputeManagementClient
+
 
 
 VM_REFERENCE = {
@@ -83,6 +86,57 @@ def delete_vm(compute_client, group_name, vm_name):
 	print('\nDelete VM')
 	async_vm_delete = compute_client.virtual_machines.delete(group_name, vm_name)
 	async_vm_delete.wait()
+
+def attach_data_disk(compute_client, group_name, vm_name, data_disk_name, data_disk_id):
+	print('\nAttach Data Disk')
+	virtual_machine = compute_client.virtual_machines.get(group_name, vm_name)
+	virtual_machine.storage_profile.data_disks.append({
+		'lun': 12,
+		'name': data_disk_name,
+		'create_option': 'Attach',
+		'managed_disk': {
+			'id': data_disk_id
+		}
+	})
+	async_disk_attach = compute_client.virtual_machines.create_or_update(
+		group_name,
+		virtual_machine.name,
+		virtual_machine
+	)
+	async_disk_attach.wait()
+
+def detach_data_disk(compute_client, group_name, vm_name, data_disk_name):
+	print('\nDetach Data Disk')
+	virtual_machine = compute_client.virtual_machine.get(group_name, vm_name)
+	data_disks = virtual_machine.storage_profile.data_disks
+	data_disks[:] = [disk for disk in data_disks if disk.name != 'mydatadisk1']
+	async_vm_update = compute_client.virtual_machines.create_or_update(
+		group_name,
+		vm_name,
+		virtual_machine
+	)
+	virtual_machine = async_vm_update.result()
+
+# Increases OS disk size
+# input: additional_os_disk_size (in GB)
+def increase_os_disk_size(compute_client, group_name, vm_name, additional_os_disk_size):
+	print('\nUpdate OS disk size by ' + additional_os_disk_size + 'gb')
+	virtual_machine = compute_client.virtual_machine.get(group_name, vm_name)	
+	os_disk_name = virtual_machine.storage_profile.os_disk.name
+	os_disk = compute_client.disks.get(group_name, os_disk_name)
+	if not os_disk.disk_size_gb:
+		print("\tServer is not returning the OS disk size, possible bug in the server?")
+		print("\tAssuming that the OS disk size is 30 GB")
+		os_disk.disk_size_gb = 30
+
+	os_disk.disk_size_gb += additional_os_disk_size
+
+	async_disk_update = compute_client.disks.create_or_update(
+		group_name,
+		os_disk.name,
+		os_disk
+	)
+	async_disk_update.wait()
 
 def list_vm_in_subscription(compute_client):
 	# List VMs in subscription
@@ -161,8 +215,29 @@ def create_nic(network_client, group_name, vnet_name='myvnet', subnet_name='mysu
 	)
 	async_nic_creation.wait()
 	result = network_client.network_interfaces.get(group_name, nic_name)
-
 	return result
+
+# Creates a data disk
+# input: data_disk_name
+#		 disk_size (in gigabytes)
+def create_data_disk(compute_client, group_name, data_disk_name='mydatadisk1', disk_size=1):
+	LOCATION = 'westus'
+
+	# Create managed data disk
+	print('\nCreate (empty) managed Data Disk')
+	async_disk_creation = compute_client.disks.create_or_update(
+	    group_name,
+	    data_disk_name,
+	    {
+	        'location': LOCATION,
+	        'disk_size_gb': disk_size,
+	        'creation_data': {
+	            'create_option': 'Empty'
+	        }
+	    }
+	)
+	data_disk = async_disk_creation.result()
+	return data_disk.id
 
 def create_vm_parameters(nic_id, vm_reference, vm_name, os_disk_name, username, pw, location):
 	"""Create the VM parameters structure.
@@ -194,11 +269,11 @@ def create_vm_parameters(nic_id, vm_reference, vm_name, os_disk_name, username, 
 			# }
 		},
 		# az vm image accept-terms --urn microsoft-ads:linux-data-science-vm-ubuntu:linuxdsvmubuntu:1.1.7
-	    'plan': {
-			'name': vm_reference['sku'],
-			'product': vm_reference['offer'],
-			'publisher': vm_reference['publisher'],
-	    },
+	  #   'plan': {
+			# 'name': vm_reference['sku'],
+			# 'product': vm_reference['offer'],
+			# 'publisher': vm_reference['publisher'],
+	  #   },
 		'network_profile': {
 			'network_interfaces': [{
 				'id': nic_id,
@@ -217,19 +292,12 @@ def create_vm(resource_client, compute_client, network_client, storage_client, b
 	NETWORK_INTERFACE_NAME = BASE_NAME
 	VM_NAME = BASE_NAME
 	OS_DISK_NAME = BASE_NAME
+	DATA_DISK_NAME = BASE_NAME
 	PUBLIC_IP_NAME = BASE_NAME
 	COMPUTER_NAME = BASE_NAME
 	ADMIN_USERNAME='azureadminuser'
 	ADMIN_PASSWORD='Azureadminpw1'
 	REGION = 'westus'
-	# IMAGE_PUBLISHER = 'Canonical'
-	# IMAGE_OFFER = 'UbuntuServer'
-	# IMAGE_SKU = '16.04.0-LTS'
-	# IMAGE_VERSION = 'latest'
-	# IMAGE_PUBLISHER = 'microsoft-ads'
-	# IMAGE_OFFER = 'linux-data-science-vm-ubuntu'
-	# IMAGE_SKU = 'linuxdsvmubuntu'
-	# IMAGE_VERSION = '1.1.7'
 
 	# 1. Create a resource group
 	result = create_resource_group(resource_client, GROUP_NAME)
@@ -257,11 +325,17 @@ def create_vm(resource_client, compute_client, network_client, storage_client, b
 	nic = network_client.network_interfaces.get(GROUP_NAME, NETWORK_INTERFACE_NAME)
 
 	# 4. Create the virtual machine
-	print('\nCreating Datascience Linux Virtual Machine')
-	vm_parameters = create_vm_parameters(nic.id, VM_REFERENCE['linux_datascience'], VM_NAME, OS_DISK_NAME, ADMIN_USERNAME, ADMIN_PASSWORD, REGION)
+	print('\nCreating Linux Virtual Machine')
+	vm_parameters = create_vm_parameters(nic.id, VM_REFERENCE['linux'], VM_NAME, OS_DISK_NAME, ADMIN_USERNAME, ADMIN_PASSWORD, REGION)
 	async_vm_creation = compute_client.virtual_machines.create_or_update(
 		GROUP_NAME, VM_NAME, vm_parameters)
 	async_vm_creation.wait()
+
+	# 4. Attach data disk
+	print('\nCreate data disk and attach to VM')
+	data_disk_id = create_data_disk(compute_client, GROUP_NAME, DATA_DISK_NAME, 10)
+	attach_data_disk(compute_client, GROUP_NAME, VM_NAME, DATA_DISK_NAME, data_disk_id)
+
 
 	# Display the public ip address
 	# You can now connect to the machine using SSH
@@ -271,47 +345,9 @@ def create_vm(resource_client, compute_client, network_client, storage_client, b
 	print('Run jupyter notebook: jupyter notebook --no-browser --port=8889')
 	print('Enable local port forward: ssh -N -f -L localhost:8888:localhost:8889 {}@{}'.format(ADMIN_USERNAME, public_ip_address.ip_address))
 
-	# result = compute_client.virtual_machines.create_or_update(
-	# GROUP_NAME,
-	# VM_NAME,
-	# azure.mgmt.compute.models.VirtualMachine(
-	#     location=REGION,
-	#     os_profile=azure.mgmt.compute.models.OSProfile(
-	#         admin_username=ADMIN_USERNAME,
-	#         admin_password=ADMIN_PASSWORD,
-	#         computer_name=COMPUTER_NAME,
-	#     ),
-	#     hardware_profile=azure.mgmt.compute.models.HardwareProfile(
-	#         virtual_machine_size=azure.mgmt.compute.models.VirtualMachineSizeTypes.standard_a0
-	#     ),
-	#     network_profile=azure.mgmt.compute.models.NetworkProfile(
-	#         network_interfaces=[
-	#             azure.mgmt.compute.models.NetworkInterfaceReference(
-	#                 reference_uri=nic.id,
-	#             ),
-	#         ],
-	#     ),
-	#     storage_profile=azure.mgmt.compute.models.StorageProfile(
-	#         os_disk=azure.mgmt.compute.models.OSDisk(
-	#             caching=azure.mgmt.compute.models.CachingTypes.none,
-	#             create_option=azure.mgmt.compute.models.DiskCreateOptionTypes.from_image,
-	#             name=OS_DISK_NAME,
-	#             vhd=azure.mgmt.compute.models.VirtualHardDisk(
-	#                 uri='https://{0}.blob.core.windows.net/vhds/{1}.vhd'.format(
-	#                     STORAGE_NAME,
-	#                     OS_DISK_NAME,
-	#                 ),
-	#             ),
-	#         ),
-	#         image_reference = azure.mgmt.compute.models.ImageReference(
-	#             publisher=IMAGE_PUBLISHER,
-	#             offer=IMAGE_OFFER,
-	#             sku=IMAGE_SKU,
-	#             version=IMAGE_VERSION,
-	#         ),
-	#     ),
-	# ),
-	# )
+# TODO
+def create_vm_from_image():
+	return
 
 def get_vm(compute_client, group_name, vm_name):
     vm = compute_client.virtual_machines.get(group_name, vm_name, expand='instanceView')
